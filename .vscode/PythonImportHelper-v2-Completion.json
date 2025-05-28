@@ -1,0 +1,579 @@
+[
+    {
+        "label": "get_driver",
+        "importPath": "features.helpers.driver",
+        "description": "features.helpers.driver",
+        "isExtraImport": true,
+        "detail": "features.helpers.driver",
+        "documentation": {}
+    },
+    {
+        "label": "get_driver",
+        "importPath": "features.helpers.driver",
+        "description": "features.helpers.driver",
+        "isExtraImport": true,
+        "detail": "features.helpers.driver",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "features.helpers.driver",
+        "description": "features.helpers.driver",
+        "isExtraImport": true,
+        "detail": "features.helpers.driver",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "features.pages.base_page",
+        "description": "features.pages.base_page",
+        "isExtraImport": true,
+        "detail": "features.pages.base_page",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "given",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "when",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "then",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "cadastro_page",
+        "importPath": "features.pages",
+        "description": "features.pages",
+        "isExtraImport": true,
+        "detail": "features.pages",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "ChromeDriverManager",
+        "importPath": "webdriver_manager.chrome",
+        "description": "webdriver_manager.chrome",
+        "isExtraImport": true,
+        "detail": "webdriver_manager.chrome",
+        "documentation": {}
+    },
+    {
+        "label": "Status",
+        "importPath": "behave.model_core",
+        "description": "behave.model_core",
+        "isExtraImport": true,
+        "detail": "behave.model_core",
+        "documentation": {}
+    },
+    {
+        "label": "set_driver",
+        "kind": 2,
+        "importPath": "features.helpers.driver",
+        "description": "features.helpers.driver",
+        "peekOfCode": "def set_driver(instance):\n    global _driver\n    _driver = instance\ndef get_driver():\n    if _driver is None:\n        raise RuntimeError(\"Driver não foi inicializado! Verifique o before_scenario.\")\n    return _driver",
+        "detail": "features.helpers.driver",
+        "documentation": {}
+    },
+    {
+        "label": "get_driver",
+        "kind": 2,
+        "importPath": "features.helpers.driver",
+        "description": "features.helpers.driver",
+        "peekOfCode": "def get_driver():\n    if _driver is None:\n        raise RuntimeError(\"Driver não foi inicializado! Verifique o before_scenario.\")\n    return _driver",
+        "detail": "features.helpers.driver",
+        "documentation": {}
+    },
+    {
+        "label": "_driver",
+        "kind": 5,
+        "importPath": "features.helpers.driver",
+        "description": "features.helpers.driver",
+        "peekOfCode": "_driver = None\ndef set_driver(instance):\n    global _driver\n    _driver = instance\ndef get_driver():\n    if _driver is None:\n        raise RuntimeError(\"Driver não foi inicializado! Verifique o before_scenario.\")\n    return _driver",
+        "detail": "features.helpers.driver",
+        "documentation": {}
+    },
+    {
+        "label": "find_element",
+        "kind": 2,
+        "importPath": "features.pages.base_page",
+        "description": "features.pages.base_page",
+        "peekOfCode": "def find_element(locator):\n    return get_driver().find_element(By.CSS_SELECTOR, locator)\ndef find_elements(locator):\n    return get_driver().find_elements(By.CSS_SELECTOR, locator)\ndef get_element_text(locator):\n    return find_element(locator).text\ndef get_element_text_get_attribute(locator):\n    return find_element(locator).get_attribute(\"value\")\ndef wait_for_element(locator, timeout):\n    element = find_element(locator)",
+        "detail": "features.pages.base_page",
+        "documentation": {}
+    },
+    {
+        "label": "find_elements",
+        "kind": 2,
+        "importPath": "features.pages.base_page",
+        "description": "features.pages.base_page",
+        "peekOfCode": "def find_elements(locator):\n    return get_driver().find_elements(By.CSS_SELECTOR, locator)\ndef get_element_text(locator):\n    return find_element(locator).text\ndef get_element_text_get_attribute(locator):\n    return find_element(locator).get_attribute(\"value\")\ndef wait_for_element(locator, timeout):\n    element = find_element(locator)\n    return WebDriverWait(get_driver(), timeout).until(\n        EC.presence_of_all_elements_located(element)",
+        "detail": "features.pages.base_page",
+        "documentation": {}
+    },
+    {
+        "label": "get_element_text",
+        "kind": 2,
+        "importPath": "features.pages.base_page",
+        "description": "features.pages.base_page",
+        "peekOfCode": "def get_element_text(locator):\n    return find_element(locator).text\ndef get_element_text_get_attribute(locator):\n    return find_element(locator).get_attribute(\"value\")\ndef wait_for_element(locator, timeout):\n    element = find_element(locator)\n    return WebDriverWait(get_driver(), timeout).until(\n        EC.presence_of_all_elements_located(element)\n    )",
+        "detail": "features.pages.base_page",
+        "documentation": {}
+    },
+    {
+        "label": "get_element_text_get_attribute",
+        "kind": 2,
+        "importPath": "features.pages.base_page",
+        "description": "features.pages.base_page",
+        "peekOfCode": "def get_element_text_get_attribute(locator):\n    return find_element(locator).get_attribute(\"value\")\ndef wait_for_element(locator, timeout):\n    element = find_element(locator)\n    return WebDriverWait(get_driver(), timeout).until(\n        EC.presence_of_all_elements_located(element)\n    )",
+        "detail": "features.pages.base_page",
+        "documentation": {}
+    },
+    {
+        "label": "wait_for_element",
+        "kind": 2,
+        "importPath": "features.pages.base_page",
+        "description": "features.pages.base_page",
+        "peekOfCode": "def wait_for_element(locator, timeout):\n    element = find_element(locator)\n    return WebDriverWait(get_driver(), timeout).until(\n        EC.presence_of_all_elements_located(element)\n    )",
+        "detail": "features.pages.base_page",
+        "documentation": {}
+    },
+    {
+        "label": "acessar_site",
+        "kind": 2,
+        "importPath": "features.pages.cadastro_page",
+        "description": "features.pages.cadastro_page",
+        "peekOfCode": "def acessar_site():\n    get_driver().get(\"https://demo.prestashop.com/#/en/front\")\n    time.sleep(3)\n    iframe = get_driver().find_element(By.TAG_NAME, \"iframe\")\n    get_driver().switch_to.frame(iframe)\ndef clicar_sign_in():\n    find_element(BOTAO_SIGN_IN).click()\ndef clicar_criar_conta():\n    find_element(BOTAO_CRIAR_CONTA).click()\ndef preencher_titulo():",
+        "detail": "features.pages.cadastro_page",
+        "documentation": {}
+    },
+    {
+        "label": "clicar_sign_in",
+        "kind": 2,
+        "importPath": "features.pages.cadastro_page",
+        "description": "features.pages.cadastro_page",
+        "peekOfCode": "def clicar_sign_in():\n    find_element(BOTAO_SIGN_IN).click()\ndef clicar_criar_conta():\n    find_element(BOTAO_CRIAR_CONTA).click()\ndef preencher_titulo():\n    find_element(RADIO_TITULO_SR).click()\ndef preencher_nome():\n    find_element(CAMPO_NOME).send_keys(nome)\ndef preencher_sobrenome():\n    find_element(CAMPO_SOBRENOME).send_keys(sobrenome)",
+        "detail": "features.pages.cadastro_page",
+        "documentation": {}
+    },
+    {
+        "label": "clicar_criar_conta",
+        "kind": 2,
+        "importPath": "features.pages.cadastro_page",
+        "description": "features.pages.cadastro_page",
+        "peekOfCode": "def clicar_criar_conta():\n    find_element(BOTAO_CRIAR_CONTA).click()\ndef preencher_titulo():\n    find_element(RADIO_TITULO_SR).click()\ndef preencher_nome():\n    find_element(CAMPO_NOME).send_keys(nome)\ndef preencher_sobrenome():\n    find_element(CAMPO_SOBRENOME).send_keys(sobrenome)\ndef preencher_email():\n    find_element(CAMPO_EMAIL).send_keys(email)",
+        "detail": "features.pages.cadastro_page",
+        "documentation": {}
+    },
+    {
+        "label": "preencher_titulo",
+        "kind": 2,
+        "importPath": "features.pages.cadastro_page",
+        "description": "features.pages.cadastro_page",
+        "peekOfCode": "def preencher_titulo():\n    find_element(RADIO_TITULO_SR).click()\ndef preencher_nome():\n    find_element(CAMPO_NOME).send_keys(nome)\ndef preencher_sobrenome():\n    find_element(CAMPO_SOBRENOME).send_keys(sobrenome)\ndef preencher_email():\n    find_element(CAMPO_EMAIL).send_keys(email)\ndef preencher_senha():\n    find_element(CAMPO_SENHA).send_keys(senha)",
+        "detail": "features.pages.cadastro_page",
+        "documentation": {}
+    },
+    {
+        "label": "preencher_nome",
+        "kind": 2,
+        "importPath": "features.pages.cadastro_page",
+        "description": "features.pages.cadastro_page",
+        "peekOfCode": "def preencher_nome():\n    find_element(CAMPO_NOME).send_keys(nome)\ndef preencher_sobrenome():\n    find_element(CAMPO_SOBRENOME).send_keys(sobrenome)\ndef preencher_email():\n    find_element(CAMPO_EMAIL).send_keys(email)\ndef preencher_senha():\n    find_element(CAMPO_SENHA).send_keys(senha)\ndef preencher_data_nascimento():\n    find_element(CAMPO_DATA_NASC).send_keys(data_nasc)",
+        "detail": "features.pages.cadastro_page",
+        "documentation": {}
+    },
+    {
+        "label": "preencher_sobrenome",
+        "kind": 2,
+        "importPath": "features.pages.cadastro_page",
+        "description": "features.pages.cadastro_page",
+        "peekOfCode": "def preencher_sobrenome():\n    find_element(CAMPO_SOBRENOME).send_keys(sobrenome)\ndef preencher_email():\n    find_element(CAMPO_EMAIL).send_keys(email)\ndef preencher_senha():\n    find_element(CAMPO_SENHA).send_keys(senha)\ndef preencher_data_nascimento():\n    find_element(CAMPO_DATA_NASC).send_keys(data_nasc)\ndef aceitar_termos():\n    find_element(CHECKBOX_TERMO).click()",
+        "detail": "features.pages.cadastro_page",
+        "documentation": {}
+    },
+    {
+        "label": "preencher_email",
+        "kind": 2,
+        "importPath": "features.pages.cadastro_page",
+        "description": "features.pages.cadastro_page",
+        "peekOfCode": "def preencher_email():\n    find_element(CAMPO_EMAIL).send_keys(email)\ndef preencher_senha():\n    find_element(CAMPO_SENHA).send_keys(senha)\ndef preencher_data_nascimento():\n    find_element(CAMPO_DATA_NASC).send_keys(data_nasc)\ndef aceitar_termos():\n    find_element(CHECKBOX_TERMO).click()\ndef aceitar_privacidade():\n    find_element(CHECKBOX_PRIVACIDADE).click()",
+        "detail": "features.pages.cadastro_page",
+        "documentation": {}
+    },
+    {
+        "label": "preencher_senha",
+        "kind": 2,
+        "importPath": "features.pages.cadastro_page",
+        "description": "features.pages.cadastro_page",
+        "peekOfCode": "def preencher_senha():\n    find_element(CAMPO_SENHA).send_keys(senha)\ndef preencher_data_nascimento():\n    find_element(CAMPO_DATA_NASC).send_keys(data_nasc)\ndef aceitar_termos():\n    find_element(CHECKBOX_TERMO).click()\ndef aceitar_privacidade():\n    find_element(CHECKBOX_PRIVACIDADE).click()\ndef clicar_botao_save():\n    find_element(BOTAO_SAVE).click()",
+        "detail": "features.pages.cadastro_page",
+        "documentation": {}
+    },
+    {
+        "label": "preencher_data_nascimento",
+        "kind": 2,
+        "importPath": "features.pages.cadastro_page",
+        "description": "features.pages.cadastro_page",
+        "peekOfCode": "def preencher_data_nascimento():\n    find_element(CAMPO_DATA_NASC).send_keys(data_nasc)\ndef aceitar_termos():\n    find_element(CHECKBOX_TERMO).click()\ndef aceitar_privacidade():\n    find_element(CHECKBOX_PRIVACIDADE).click()\ndef clicar_botao_save():\n    find_element(BOTAO_SAVE).click()\ndef verificar_cadastro_sucesso():\n    return find_element(LINK_CONTA).is_displayed()",
+        "detail": "features.pages.cadastro_page",
+        "documentation": {}
+    },
+    {
+        "label": "aceitar_termos",
+        "kind": 2,
+        "importPath": "features.pages.cadastro_page",
+        "description": "features.pages.cadastro_page",
+        "peekOfCode": "def aceitar_termos():\n    find_element(CHECKBOX_TERMO).click()\ndef aceitar_privacidade():\n    find_element(CHECKBOX_PRIVACIDADE).click()\ndef clicar_botao_save():\n    find_element(BOTAO_SAVE).click()\ndef verificar_cadastro_sucesso():\n    return find_element(LINK_CONTA).is_displayed()\ndef preencher_todos_os_campos():\n    preencher_titulo()",
+        "detail": "features.pages.cadastro_page",
+        "documentation": {}
+    },
+    {
+        "label": "aceitar_privacidade",
+        "kind": 2,
+        "importPath": "features.pages.cadastro_page",
+        "description": "features.pages.cadastro_page",
+        "peekOfCode": "def aceitar_privacidade():\n    find_element(CHECKBOX_PRIVACIDADE).click()\ndef clicar_botao_save():\n    find_element(BOTAO_SAVE).click()\ndef verificar_cadastro_sucesso():\n    return find_element(LINK_CONTA).is_displayed()\ndef preencher_todos_os_campos():\n    preencher_titulo()\n    preencher_nome()\n    preencher_sobrenome()",
+        "detail": "features.pages.cadastro_page",
+        "documentation": {}
+    },
+    {
+        "label": "clicar_botao_save",
+        "kind": 2,
+        "importPath": "features.pages.cadastro_page",
+        "description": "features.pages.cadastro_page",
+        "peekOfCode": "def clicar_botao_save():\n    find_element(BOTAO_SAVE).click()\ndef verificar_cadastro_sucesso():\n    return find_element(LINK_CONTA).is_displayed()\ndef preencher_todos_os_campos():\n    preencher_titulo()\n    preencher_nome()\n    preencher_sobrenome()\n    preencher_email()\n    preencher_senha()",
+        "detail": "features.pages.cadastro_page",
+        "documentation": {}
+    },
+    {
+        "label": "verificar_cadastro_sucesso",
+        "kind": 2,
+        "importPath": "features.pages.cadastro_page",
+        "description": "features.pages.cadastro_page",
+        "peekOfCode": "def verificar_cadastro_sucesso():\n    return find_element(LINK_CONTA).is_displayed()\ndef preencher_todos_os_campos():\n    preencher_titulo()\n    preencher_nome()\n    preencher_sobrenome()\n    preencher_email()\n    preencher_senha()\n    preencher_data_nascimento()\n    aceitar_termos()",
+        "detail": "features.pages.cadastro_page",
+        "documentation": {}
+    },
+    {
+        "label": "preencher_todos_os_campos",
+        "kind": 2,
+        "importPath": "features.pages.cadastro_page",
+        "description": "features.pages.cadastro_page",
+        "peekOfCode": "def preencher_todos_os_campos():\n    preencher_titulo()\n    preencher_nome()\n    preencher_sobrenome()\n    preencher_email()\n    preencher_senha()\n    preencher_data_nascimento()\n    aceitar_termos()\n    aceitar_privacidade()",
+        "detail": "features.pages.cadastro_page",
+        "documentation": {}
+    },
+    {
+        "label": "BOTAO_SIGN_IN",
+        "kind": 5,
+        "importPath": "features.pages.cadastro_page",
+        "description": "features.pages.cadastro_page",
+        "peekOfCode": "BOTAO_SIGN_IN = 'a[title=\"Log in to your customer account\"]'\nBOTAO_CRIAR_CONTA = 'a[data-link-action=\"display-register-form\"]'\nRADIO_TITULO_SR = \"#field-id_gender-1\"\nCAMPO_NOME = \"#field-firstname\"\nCAMPO_SOBRENOME = \"#field-lastname\"\nCAMPO_EMAIL = \"#field-email\"\nCAMPO_SENHA = \"#field-password\"\nCAMPO_DATA_NASC = \"#field-birthday\"\nCHECKBOX_TERMO = \"input[name='psgdpr']\"\nCHECKBOX_PRIVACIDADE = \"input[name='customer_privacy']\"",
+        "detail": "features.pages.cadastro_page",
+        "documentation": {}
+    },
+    {
+        "label": "BOTAO_CRIAR_CONTA",
+        "kind": 5,
+        "importPath": "features.pages.cadastro_page",
+        "description": "features.pages.cadastro_page",
+        "peekOfCode": "BOTAO_CRIAR_CONTA = 'a[data-link-action=\"display-register-form\"]'\nRADIO_TITULO_SR = \"#field-id_gender-1\"\nCAMPO_NOME = \"#field-firstname\"\nCAMPO_SOBRENOME = \"#field-lastname\"\nCAMPO_EMAIL = \"#field-email\"\nCAMPO_SENHA = \"#field-password\"\nCAMPO_DATA_NASC = \"#field-birthday\"\nCHECKBOX_TERMO = \"input[name='psgdpr']\"\nCHECKBOX_PRIVACIDADE = \"input[name='customer_privacy']\"\nBOTAO_SAVE = \"button[data-link-action='save-customer']\"",
+        "detail": "features.pages.cadastro_page",
+        "documentation": {}
+    },
+    {
+        "label": "RADIO_TITULO_SR",
+        "kind": 5,
+        "importPath": "features.pages.cadastro_page",
+        "description": "features.pages.cadastro_page",
+        "peekOfCode": "RADIO_TITULO_SR = \"#field-id_gender-1\"\nCAMPO_NOME = \"#field-firstname\"\nCAMPO_SOBRENOME = \"#field-lastname\"\nCAMPO_EMAIL = \"#field-email\"\nCAMPO_SENHA = \"#field-password\"\nCAMPO_DATA_NASC = \"#field-birthday\"\nCHECKBOX_TERMO = \"input[name='psgdpr']\"\nCHECKBOX_PRIVACIDADE = \"input[name='customer_privacy']\"\nBOTAO_SAVE = \"button[data-link-action='save-customer']\"\nLINK_CONTA = \"a.account\"",
+        "detail": "features.pages.cadastro_page",
+        "documentation": {}
+    },
+    {
+        "label": "CAMPO_NOME",
+        "kind": 5,
+        "importPath": "features.pages.cadastro_page",
+        "description": "features.pages.cadastro_page",
+        "peekOfCode": "CAMPO_NOME = \"#field-firstname\"\nCAMPO_SOBRENOME = \"#field-lastname\"\nCAMPO_EMAIL = \"#field-email\"\nCAMPO_SENHA = \"#field-password\"\nCAMPO_DATA_NASC = \"#field-birthday\"\nCHECKBOX_TERMO = \"input[name='psgdpr']\"\nCHECKBOX_PRIVACIDADE = \"input[name='customer_privacy']\"\nBOTAO_SAVE = \"button[data-link-action='save-customer']\"\nLINK_CONTA = \"a.account\"\nnome = \"Ericlecio\"",
+        "detail": "features.pages.cadastro_page",
+        "documentation": {}
+    },
+    {
+        "label": "CAMPO_SOBRENOME",
+        "kind": 5,
+        "importPath": "features.pages.cadastro_page",
+        "description": "features.pages.cadastro_page",
+        "peekOfCode": "CAMPO_SOBRENOME = \"#field-lastname\"\nCAMPO_EMAIL = \"#field-email\"\nCAMPO_SENHA = \"#field-password\"\nCAMPO_DATA_NASC = \"#field-birthday\"\nCHECKBOX_TERMO = \"input[name='psgdpr']\"\nCHECKBOX_PRIVACIDADE = \"input[name='customer_privacy']\"\nBOTAO_SAVE = \"button[data-link-action='save-customer']\"\nLINK_CONTA = \"a.account\"\nnome = \"Ericlecio\"\nsobrenome = \"Morais\"",
+        "detail": "features.pages.cadastro_page",
+        "documentation": {}
+    },
+    {
+        "label": "CAMPO_EMAIL",
+        "kind": 5,
+        "importPath": "features.pages.cadastro_page",
+        "description": "features.pages.cadastro_page",
+        "peekOfCode": "CAMPO_EMAIL = \"#field-email\"\nCAMPO_SENHA = \"#field-password\"\nCAMPO_DATA_NASC = \"#field-birthday\"\nCHECKBOX_TERMO = \"input[name='psgdpr']\"\nCHECKBOX_PRIVACIDADE = \"input[name='customer_privacy']\"\nBOTAO_SAVE = \"button[data-link-action='save-customer']\"\nLINK_CONTA = \"a.account\"\nnome = \"Ericlecio\"\nsobrenome = \"Morais\"\nemail = f\"ericlecio{int(time.time())}@discente.ifpe.edu.br\"",
+        "detail": "features.pages.cadastro_page",
+        "documentation": {}
+    },
+    {
+        "label": "CAMPO_SENHA",
+        "kind": 5,
+        "importPath": "features.pages.cadastro_page",
+        "description": "features.pages.cadastro_page",
+        "peekOfCode": "CAMPO_SENHA = \"#field-password\"\nCAMPO_DATA_NASC = \"#field-birthday\"\nCHECKBOX_TERMO = \"input[name='psgdpr']\"\nCHECKBOX_PRIVACIDADE = \"input[name='customer_privacy']\"\nBOTAO_SAVE = \"button[data-link-action='save-customer']\"\nLINK_CONTA = \"a.account\"\nnome = \"Ericlecio\"\nsobrenome = \"Morais\"\nemail = f\"ericlecio{int(time.time())}@discente.ifpe.edu.br\"\nsenha = \"StrongPass123@\"",
+        "detail": "features.pages.cadastro_page",
+        "documentation": {}
+    },
+    {
+        "label": "CAMPO_DATA_NASC",
+        "kind": 5,
+        "importPath": "features.pages.cadastro_page",
+        "description": "features.pages.cadastro_page",
+        "peekOfCode": "CAMPO_DATA_NASC = \"#field-birthday\"\nCHECKBOX_TERMO = \"input[name='psgdpr']\"\nCHECKBOX_PRIVACIDADE = \"input[name='customer_privacy']\"\nBOTAO_SAVE = \"button[data-link-action='save-customer']\"\nLINK_CONTA = \"a.account\"\nnome = \"Ericlecio\"\nsobrenome = \"Morais\"\nemail = f\"ericlecio{int(time.time())}@discente.ifpe.edu.br\"\nsenha = \"StrongPass123@\"\ndata_nasc = \"01/01/1990\"",
+        "detail": "features.pages.cadastro_page",
+        "documentation": {}
+    },
+    {
+        "label": "CHECKBOX_TERMO",
+        "kind": 5,
+        "importPath": "features.pages.cadastro_page",
+        "description": "features.pages.cadastro_page",
+        "peekOfCode": "CHECKBOX_TERMO = \"input[name='psgdpr']\"\nCHECKBOX_PRIVACIDADE = \"input[name='customer_privacy']\"\nBOTAO_SAVE = \"button[data-link-action='save-customer']\"\nLINK_CONTA = \"a.account\"\nnome = \"Ericlecio\"\nsobrenome = \"Morais\"\nemail = f\"ericlecio{int(time.time())}@discente.ifpe.edu.br\"\nsenha = \"StrongPass123@\"\ndata_nasc = \"01/01/1990\"\ndef acessar_site():",
+        "detail": "features.pages.cadastro_page",
+        "documentation": {}
+    },
+    {
+        "label": "CHECKBOX_PRIVACIDADE",
+        "kind": 5,
+        "importPath": "features.pages.cadastro_page",
+        "description": "features.pages.cadastro_page",
+        "peekOfCode": "CHECKBOX_PRIVACIDADE = \"input[name='customer_privacy']\"\nBOTAO_SAVE = \"button[data-link-action='save-customer']\"\nLINK_CONTA = \"a.account\"\nnome = \"Ericlecio\"\nsobrenome = \"Morais\"\nemail = f\"ericlecio{int(time.time())}@discente.ifpe.edu.br\"\nsenha = \"StrongPass123@\"\ndata_nasc = \"01/01/1990\"\ndef acessar_site():\n    get_driver().get(\"https://demo.prestashop.com/#/en/front\")",
+        "detail": "features.pages.cadastro_page",
+        "documentation": {}
+    },
+    {
+        "label": "BOTAO_SAVE",
+        "kind": 5,
+        "importPath": "features.pages.cadastro_page",
+        "description": "features.pages.cadastro_page",
+        "peekOfCode": "BOTAO_SAVE = \"button[data-link-action='save-customer']\"\nLINK_CONTA = \"a.account\"\nnome = \"Ericlecio\"\nsobrenome = \"Morais\"\nemail = f\"ericlecio{int(time.time())}@discente.ifpe.edu.br\"\nsenha = \"StrongPass123@\"\ndata_nasc = \"01/01/1990\"\ndef acessar_site():\n    get_driver().get(\"https://demo.prestashop.com/#/en/front\")\n    time.sleep(3)",
+        "detail": "features.pages.cadastro_page",
+        "documentation": {}
+    },
+    {
+        "label": "LINK_CONTA",
+        "kind": 5,
+        "importPath": "features.pages.cadastro_page",
+        "description": "features.pages.cadastro_page",
+        "peekOfCode": "LINK_CONTA = \"a.account\"\nnome = \"Ericlecio\"\nsobrenome = \"Morais\"\nemail = f\"ericlecio{int(time.time())}@discente.ifpe.edu.br\"\nsenha = \"StrongPass123@\"\ndata_nasc = \"01/01/1990\"\ndef acessar_site():\n    get_driver().get(\"https://demo.prestashop.com/#/en/front\")\n    time.sleep(3)\n    iframe = get_driver().find_element(By.TAG_NAME, \"iframe\")",
+        "detail": "features.pages.cadastro_page",
+        "documentation": {}
+    },
+    {
+        "label": "nome",
+        "kind": 5,
+        "importPath": "features.pages.cadastro_page",
+        "description": "features.pages.cadastro_page",
+        "peekOfCode": "nome = \"Ericlecio\"\nsobrenome = \"Morais\"\nemail = f\"ericlecio{int(time.time())}@discente.ifpe.edu.br\"\nsenha = \"StrongPass123@\"\ndata_nasc = \"01/01/1990\"\ndef acessar_site():\n    get_driver().get(\"https://demo.prestashop.com/#/en/front\")\n    time.sleep(3)\n    iframe = get_driver().find_element(By.TAG_NAME, \"iframe\")\n    get_driver().switch_to.frame(iframe)",
+        "detail": "features.pages.cadastro_page",
+        "documentation": {}
+    },
+    {
+        "label": "sobrenome",
+        "kind": 5,
+        "importPath": "features.pages.cadastro_page",
+        "description": "features.pages.cadastro_page",
+        "peekOfCode": "sobrenome = \"Morais\"\nemail = f\"ericlecio{int(time.time())}@discente.ifpe.edu.br\"\nsenha = \"StrongPass123@\"\ndata_nasc = \"01/01/1990\"\ndef acessar_site():\n    get_driver().get(\"https://demo.prestashop.com/#/en/front\")\n    time.sleep(3)\n    iframe = get_driver().find_element(By.TAG_NAME, \"iframe\")\n    get_driver().switch_to.frame(iframe)\ndef clicar_sign_in():",
+        "detail": "features.pages.cadastro_page",
+        "documentation": {}
+    },
+    {
+        "label": "email",
+        "kind": 5,
+        "importPath": "features.pages.cadastro_page",
+        "description": "features.pages.cadastro_page",
+        "peekOfCode": "email = f\"ericlecio{int(time.time())}@discente.ifpe.edu.br\"\nsenha = \"StrongPass123@\"\ndata_nasc = \"01/01/1990\"\ndef acessar_site():\n    get_driver().get(\"https://demo.prestashop.com/#/en/front\")\n    time.sleep(3)\n    iframe = get_driver().find_element(By.TAG_NAME, \"iframe\")\n    get_driver().switch_to.frame(iframe)\ndef clicar_sign_in():\n    find_element(BOTAO_SIGN_IN).click()",
+        "detail": "features.pages.cadastro_page",
+        "documentation": {}
+    },
+    {
+        "label": "senha",
+        "kind": 5,
+        "importPath": "features.pages.cadastro_page",
+        "description": "features.pages.cadastro_page",
+        "peekOfCode": "senha = \"StrongPass123@\"\ndata_nasc = \"01/01/1990\"\ndef acessar_site():\n    get_driver().get(\"https://demo.prestashop.com/#/en/front\")\n    time.sleep(3)\n    iframe = get_driver().find_element(By.TAG_NAME, \"iframe\")\n    get_driver().switch_to.frame(iframe)\ndef clicar_sign_in():\n    find_element(BOTAO_SIGN_IN).click()\ndef clicar_criar_conta():",
+        "detail": "features.pages.cadastro_page",
+        "documentation": {}
+    },
+    {
+        "label": "data_nasc",
+        "kind": 5,
+        "importPath": "features.pages.cadastro_page",
+        "description": "features.pages.cadastro_page",
+        "peekOfCode": "data_nasc = \"01/01/1990\"\ndef acessar_site():\n    get_driver().get(\"https://demo.prestashop.com/#/en/front\")\n    time.sleep(3)\n    iframe = get_driver().find_element(By.TAG_NAME, \"iframe\")\n    get_driver().switch_to.frame(iframe)\ndef clicar_sign_in():\n    find_element(BOTAO_SIGN_IN).click()\ndef clicar_criar_conta():\n    find_element(BOTAO_CRIAR_CONTA).click()",
+        "detail": "features.pages.cadastro_page",
+        "documentation": {}
+    },
+    {
+        "label": "step_acessar_site",
+        "kind": 2,
+        "importPath": "features.steps.cadastro_step",
+        "description": "features.steps.cadastro_step",
+        "peekOfCode": "def step_acessar_site(context):\n    cadastro.acessar_site()\n@given(u'que o usuário clique no botão Sign In')\ndef step_clicar_sign_in(context):\n    cadastro.clicar_sign_in()\n    time.sleep(3)\n@given(u'que o usuário clique para criar uma nova conta')\ndef step_clicar_criar_conta(context):\n    cadastro.clicar_criar_conta()\n    time.sleep(3)",
+        "detail": "features.steps.cadastro_step",
+        "documentation": {}
+    },
+    {
+        "label": "step_clicar_sign_in",
+        "kind": 2,
+        "importPath": "features.steps.cadastro_step",
+        "description": "features.steps.cadastro_step",
+        "peekOfCode": "def step_clicar_sign_in(context):\n    cadastro.clicar_sign_in()\n    time.sleep(3)\n@given(u'que o usuário clique para criar uma nova conta')\ndef step_clicar_criar_conta(context):\n    cadastro.clicar_criar_conta()\n    time.sleep(3)\n@given(u'que o usuário preencha todos os campos obrigatórios do cadastro')\ndef step_preencher_todos_os_campos(context):\n    cadastro.preencher_todos_os_campos()",
+        "detail": "features.steps.cadastro_step",
+        "documentation": {}
+    },
+    {
+        "label": "step_clicar_criar_conta",
+        "kind": 2,
+        "importPath": "features.steps.cadastro_step",
+        "description": "features.steps.cadastro_step",
+        "peekOfCode": "def step_clicar_criar_conta(context):\n    cadastro.clicar_criar_conta()\n    time.sleep(3)\n@given(u'que o usuário preencha todos os campos obrigatórios do cadastro')\ndef step_preencher_todos_os_campos(context):\n    cadastro.preencher_todos_os_campos()\n    time.sleep(3)\n@when(u'o usuário clicar no botão Save')\ndef step_clicar_save(context):\n    cadastro.clicar_botao_save()",
+        "detail": "features.steps.cadastro_step",
+        "documentation": {}
+    },
+    {
+        "label": "step_preencher_todos_os_campos",
+        "kind": 2,
+        "importPath": "features.steps.cadastro_step",
+        "description": "features.steps.cadastro_step",
+        "peekOfCode": "def step_preencher_todos_os_campos(context):\n    cadastro.preencher_todos_os_campos()\n    time.sleep(3)\n@when(u'o usuário clicar no botão Save')\ndef step_clicar_save(context):\n    cadastro.clicar_botao_save()\n    time.sleep(3)\n@then(u'o sistema deverá registrar o usuário com sucesso')\ndef step_verificar_cadastro(context):\n    assert cadastro.verificar_cadastro_sucesso(), \"Cadastro não realizado com sucesso!\"",
+        "detail": "features.steps.cadastro_step",
+        "documentation": {}
+    },
+    {
+        "label": "step_clicar_save",
+        "kind": 2,
+        "importPath": "features.steps.cadastro_step",
+        "description": "features.steps.cadastro_step",
+        "peekOfCode": "def step_clicar_save(context):\n    cadastro.clicar_botao_save()\n    time.sleep(3)\n@then(u'o sistema deverá registrar o usuário com sucesso')\ndef step_verificar_cadastro(context):\n    assert cadastro.verificar_cadastro_sucesso(), \"Cadastro não realizado com sucesso!\"",
+        "detail": "features.steps.cadastro_step",
+        "documentation": {}
+    },
+    {
+        "label": "step_verificar_cadastro",
+        "kind": 2,
+        "importPath": "features.steps.cadastro_step",
+        "description": "features.steps.cadastro_step",
+        "peekOfCode": "def step_verificar_cadastro(context):\n    assert cadastro.verificar_cadastro_sucesso(), \"Cadastro não realizado com sucesso!\"",
+        "detail": "features.steps.cadastro_step",
+        "documentation": {}
+    },
+    {
+        "label": "before_scenario",
+        "kind": 2,
+        "importPath": "features.environment",
+        "description": "features.environment",
+        "peekOfCode": "def before_scenario(context, scenario):\n    service = Service(ChromeDriverManager().install())\n    # options = webdriver.ChromeOptions()\n    driver = webdriver.Chrome(service=service)\n    driver.implicitly_wait(10)\n    # context.driver.set_window_position(2000, 0)\n    set_driver(driver)\ndef after_scenario(context, scenario):\n    print(scenario.name)\n    driver = get_driver()",
+        "detail": "features.environment",
+        "documentation": {}
+    },
+    {
+        "label": "after_scenario",
+        "kind": 2,
+        "importPath": "features.environment",
+        "description": "features.environment",
+        "peekOfCode": "def after_scenario(context, scenario):\n    print(scenario.name)\n    driver = get_driver()\n    if scenario.status == Status.failed:\n        screenshor_dir = \"screenshots\"\n        os.makedirs(screenshor_dir, exist_ok=True)\n        screenshot_path = os.path.join(screenshor_dir, f\"{scenario.name.replace(' ', '_')}.png\")\n        driver.save_screenshot(screenshot_path)\n    driver.quit()",
+        "detail": "features.environment",
+        "documentation": {}
+    }
+]
