@@ -11,6 +11,7 @@ def before_scenario(context, scenario):
     service = Service(ChromeDriverManager().install())
     # options = webdriver.ChromeOptions()
     driver = webdriver.Chrome(service=service)
+    driver.maximize_window()
     driver.implicitly_wait(10)
     # context.driver.set_window_position(2000, 0)
     set_driver(driver)

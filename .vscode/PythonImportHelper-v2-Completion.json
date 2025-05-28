@@ -16,6 +16,30 @@
         "documentation": {}
     },
     {
+        "label": "get_driver",
+        "importPath": "features.helpers.driver",
+        "description": "features.helpers.driver",
+        "isExtraImport": true,
+        "detail": "features.helpers.driver",
+        "documentation": {}
+    },
+    {
+        "label": "get_driver",
+        "importPath": "features.helpers.driver",
+        "description": "features.helpers.driver",
+        "isExtraImport": true,
+        "detail": "features.helpers.driver",
+        "documentation": {}
+    },
+    {
+        "label": "get_driver",
+        "importPath": "features.helpers.driver",
+        "description": "features.helpers.driver",
+        "isExtraImport": true,
+        "detail": "features.helpers.driver",
+        "documentation": {}
+    },
+    {
         "label": "*",
         "importPath": "features.helpers.driver",
         "description": "features.helpers.driver",
@@ -40,6 +64,54 @@
         "documentation": {}
     },
     {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
         "label": "WebDriverWait",
         "importPath": "selenium.webdriver.support.ui",
         "description": "selenium.webdriver.support.ui",
@@ -61,6 +133,38 @@
         "description": "selenium.webdriver.support",
         "isExtraImport": true,
         "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "features.pages.base_page",
+        "description": "features.pages.base_page",
+        "isExtraImport": true,
+        "detail": "features.pages.base_page",
         "documentation": {}
     },
     {
@@ -105,7 +209,103 @@
         "documentation": {}
     },
     {
+        "label": "given",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "when",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "then",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "given",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "when",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "then",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "given",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "when",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "then",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
         "label": "cadastro_page",
+        "importPath": "features.pages",
+        "description": "features.pages",
+        "isExtraImport": true,
+        "detail": "features.pages",
+        "documentation": {}
+    },
+    {
+        "label": "filtro_categoria_page",
+        "importPath": "features.pages",
+        "description": "features.pages",
+        "isExtraImport": true,
+        "detail": "features.pages",
+        "documentation": {}
+    },
+    {
+        "label": "product_page",
+        "importPath": "features.pages",
+        "description": "features.pages",
+        "isExtraImport": true,
+        "detail": "features.pages",
+        "documentation": {}
+    },
+    {
+        "label": "wishlist_page",
         "importPath": "features.pages",
         "description": "features.pages",
         "isExtraImport": true,
@@ -505,6 +705,303 @@
         "documentation": {}
     },
     {
+        "label": "acessar_site",
+        "kind": 2,
+        "importPath": "features.pages.filtro_categoria_page",
+        "description": "features.pages.filtro_categoria_page",
+        "peekOfCode": "def acessar_site():\n    driver = get_driver()\n    driver.get(URL_SITE)\n    time.sleep(5)\ndef entrar_no_iframe():\n    driver = get_driver()\n    driver.switch_to.default_content()\n    iframe = WebDriverWait(driver, 15).until(\n        EC.presence_of_element_located((By.TAG_NAME, \"iframe\"))\n    )",
+        "detail": "features.pages.filtro_categoria_page",
+        "documentation": {}
+    },
+    {
+        "label": "entrar_no_iframe",
+        "kind": 2,
+        "importPath": "features.pages.filtro_categoria_page",
+        "description": "features.pages.filtro_categoria_page",
+        "peekOfCode": "def entrar_no_iframe():\n    driver = get_driver()\n    driver.switch_to.default_content()\n    iframe = WebDriverWait(driver, 15).until(\n        EC.presence_of_element_located((By.TAG_NAME, \"iframe\"))\n    )\n    driver.switch_to.frame(iframe)\ndef clicar_clothes():\n    driver = get_driver()\n    entrar_no_iframe()",
+        "detail": "features.pages.filtro_categoria_page",
+        "documentation": {}
+    },
+    {
+        "label": "clicar_clothes",
+        "kind": 2,
+        "importPath": "features.pages.filtro_categoria_page",
+        "description": "features.pages.filtro_categoria_page",
+        "peekOfCode": "def clicar_clothes():\n    driver = get_driver()\n    entrar_no_iframe()\n    clothes = WebDriverWait(driver, 15).until(\n        EC.element_to_be_clickable((By.CSS_SELECTOR, LINK_CLOTHES))\n    )\n    clothes.click()\n    time.sleep(3)\ndef clicar_men():\n    driver = get_driver()",
+        "detail": "features.pages.filtro_categoria_page",
+        "documentation": {}
+    },
+    {
+        "label": "clicar_men",
+        "kind": 2,
+        "importPath": "features.pages.filtro_categoria_page",
+        "description": "features.pages.filtro_categoria_page",
+        "peekOfCode": "def clicar_men():\n    driver = get_driver()\n    driver.switch_to.default_content()\n    entrar_no_iframe()\n    men = WebDriverWait(driver, 15).until(\n        EC.element_to_be_clickable((By.CSS_SELECTOR, LINK_MEN))\n    )\n    men.click()\n    print(\"[DEBUG] Clicou no link MEN\")\n    # Agora verificar imediatamente o título da categoria",
+        "detail": "features.pages.filtro_categoria_page",
+        "documentation": {}
+    },
+    {
+        "label": "verificar_categoria_men",
+        "kind": 2,
+        "importPath": "features.pages.filtro_categoria_page",
+        "description": "features.pages.filtro_categoria_page",
+        "peekOfCode": "def verificar_categoria_men():\n    driver = get_driver()\n    entrar_no_iframe()\n    titulo = WebDriverWait(driver, 15).until(\n        EC.visibility_of_element_located((By.CSS_SELECTOR, \"h1.h1\"))\n    )\n    print(f\"[DEBUG] Título categoria: '{titulo.text.strip()}'\")\n    return \"Men\" in titulo.text.strip()",
+        "detail": "features.pages.filtro_categoria_page",
+        "documentation": {}
+    },
+    {
+        "label": "URL_SITE",
+        "kind": 5,
+        "importPath": "features.pages.filtro_categoria_page",
+        "description": "features.pages.filtro_categoria_page",
+        "peekOfCode": "URL_SITE = \"https://demo.prestashop.com/#/en/front\"\nLINK_CLOTHES = \"a.dropdown-item[href*='3-clothes']\"\nLINK_MEN = \"a.subcategory-name[href*='4-men']\"\nTITULO_CATEGORIA = \"h1.h1\"\ndef acessar_site():\n    driver = get_driver()\n    driver.get(URL_SITE)\n    time.sleep(5)\ndef entrar_no_iframe():\n    driver = get_driver()",
+        "detail": "features.pages.filtro_categoria_page",
+        "documentation": {}
+    },
+    {
+        "label": "LINK_CLOTHES",
+        "kind": 5,
+        "importPath": "features.pages.filtro_categoria_page",
+        "description": "features.pages.filtro_categoria_page",
+        "peekOfCode": "LINK_CLOTHES = \"a.dropdown-item[href*='3-clothes']\"\nLINK_MEN = \"a.subcategory-name[href*='4-men']\"\nTITULO_CATEGORIA = \"h1.h1\"\ndef acessar_site():\n    driver = get_driver()\n    driver.get(URL_SITE)\n    time.sleep(5)\ndef entrar_no_iframe():\n    driver = get_driver()\n    driver.switch_to.default_content()",
+        "detail": "features.pages.filtro_categoria_page",
+        "documentation": {}
+    },
+    {
+        "label": "LINK_MEN",
+        "kind": 5,
+        "importPath": "features.pages.filtro_categoria_page",
+        "description": "features.pages.filtro_categoria_page",
+        "peekOfCode": "LINK_MEN = \"a.subcategory-name[href*='4-men']\"\nTITULO_CATEGORIA = \"h1.h1\"\ndef acessar_site():\n    driver = get_driver()\n    driver.get(URL_SITE)\n    time.sleep(5)\ndef entrar_no_iframe():\n    driver = get_driver()\n    driver.switch_to.default_content()\n    iframe = WebDriverWait(driver, 15).until(",
+        "detail": "features.pages.filtro_categoria_page",
+        "documentation": {}
+    },
+    {
+        "label": "TITULO_CATEGORIA",
+        "kind": 5,
+        "importPath": "features.pages.filtro_categoria_page",
+        "description": "features.pages.filtro_categoria_page",
+        "peekOfCode": "TITULO_CATEGORIA = \"h1.h1\"\ndef acessar_site():\n    driver = get_driver()\n    driver.get(URL_SITE)\n    time.sleep(5)\ndef entrar_no_iframe():\n    driver = get_driver()\n    driver.switch_to.default_content()\n    iframe = WebDriverWait(driver, 15).until(\n        EC.presence_of_element_located((By.TAG_NAME, \"iframe\"))",
+        "detail": "features.pages.filtro_categoria_page",
+        "documentation": {}
+    },
+    {
+        "label": "acessar_pagina_inicial",
+        "kind": 2,
+        "importPath": "features.pages.product_page",
+        "description": "features.pages.product_page",
+        "peekOfCode": "def acessar_pagina_inicial():\n    driver = get_driver()\n    driver.get(URL_PRINCIPAL)\n    time.sleep(5) \ndef entrar_no_iframe():\n    driver = get_driver()\n    driver.switch_to.default_content()\n    iframe = WebDriverWait(driver, 15).until(\n        EC.presence_of_element_located((By.TAG_NAME, \"iframe\"))\n    )",
+        "detail": "features.pages.product_page",
+        "documentation": {}
+    },
+    {
+        "label": "entrar_no_iframe",
+        "kind": 2,
+        "importPath": "features.pages.product_page",
+        "description": "features.pages.product_page",
+        "peekOfCode": "def entrar_no_iframe():\n    driver = get_driver()\n    driver.switch_to.default_content()\n    iframe = WebDriverWait(driver, 15).until(\n        EC.presence_of_element_located((By.TAG_NAME, \"iframe\"))\n    )\n    driver.switch_to.frame(iframe)\ndef clicar_produto_desejado():\n    driver = get_driver()\n    driver.get(URL_PRINCIPAL)",
+        "detail": "features.pages.product_page",
+        "documentation": {}
+    },
+    {
+        "label": "clicar_produto_desejado",
+        "kind": 2,
+        "importPath": "features.pages.product_page",
+        "description": "features.pages.product_page",
+        "peekOfCode": "def clicar_produto_desejado():\n    driver = get_driver()\n    driver.get(URL_PRINCIPAL)\n    entrar_no_iframe()\n    produto_link = WebDriverWait(driver, 15).until(\n        EC.element_to_be_clickable((\n            By.XPATH, \"//h3[contains(@class, 'product-title')]/a[contains(text(), 'Hummingbird printed t-shirt')]\"\n        ))\n    )\n    produto_link.click()",
+        "detail": "features.pages.product_page",
+        "documentation": {}
+    },
+    {
+        "label": "clicar_foto_produto",
+        "kind": 2,
+        "importPath": "features.pages.product_page",
+        "description": "features.pages.product_page",
+        "peekOfCode": "def clicar_foto_produto():\n    driver = get_driver()\n    entrar_no_iframe()\n    foto = WebDriverWait(driver, 10).until(\n        EC.element_to_be_clickable((By.CSS_SELECTOR, FOTO_PRODUTO))\n    )\n    foto.click()\n    time.sleep(5)  \ndef modal_esta_aberto():\n    driver = get_driver()",
+        "detail": "features.pages.product_page",
+        "documentation": {}
+    },
+    {
+        "label": "modal_esta_aberto",
+        "kind": 2,
+        "importPath": "features.pages.product_page",
+        "description": "features.pages.product_page",
+        "peekOfCode": "def modal_esta_aberto():\n    driver = get_driver()\n    entrar_no_iframe()\n    modal = WebDriverWait(driver, 10).until(\n        EC.presence_of_element_located((By.ID, \"product-modal\"))\n    )\n    classes = modal.get_attribute(\"class\")\n    return \"in\" in classes.split()\ndef imagem_ampliada_exibida():\n    try:",
+        "detail": "features.pages.product_page",
+        "documentation": {}
+    },
+    {
+        "label": "imagem_ampliada_exibida",
+        "kind": 2,
+        "importPath": "features.pages.product_page",
+        "description": "features.pages.product_page",
+        "peekOfCode": "def imagem_ampliada_exibida():\n    try:\n        return modal_esta_aberto()\n    except Exception as e:\n        print(f\"Erro ao verificar modal aberto: {e}\")\n        return False",
+        "detail": "features.pages.product_page",
+        "documentation": {}
+    },
+    {
+        "label": "URL_PRINCIPAL",
+        "kind": 5,
+        "importPath": "features.pages.product_page",
+        "description": "features.pages.product_page",
+        "peekOfCode": "URL_PRINCIPAL = \"https://demo.prestashop.com/#/en/front\"\nPRIMEIRO_PRODUTO = \"article.product-miniature.js-product-miniature\"\nLINK_PRODUTO = \"h3.product-title a\"\nFOTO_PRODUTO = \"div.layer[data-toggle='modal']\"  \ndef acessar_pagina_inicial():\n    driver = get_driver()\n    driver.get(URL_PRINCIPAL)\n    time.sleep(5) \ndef entrar_no_iframe():\n    driver = get_driver()",
+        "detail": "features.pages.product_page",
+        "documentation": {}
+    },
+    {
+        "label": "PRIMEIRO_PRODUTO",
+        "kind": 5,
+        "importPath": "features.pages.product_page",
+        "description": "features.pages.product_page",
+        "peekOfCode": "PRIMEIRO_PRODUTO = \"article.product-miniature.js-product-miniature\"\nLINK_PRODUTO = \"h3.product-title a\"\nFOTO_PRODUTO = \"div.layer[data-toggle='modal']\"  \ndef acessar_pagina_inicial():\n    driver = get_driver()\n    driver.get(URL_PRINCIPAL)\n    time.sleep(5) \ndef entrar_no_iframe():\n    driver = get_driver()\n    driver.switch_to.default_content()",
+        "detail": "features.pages.product_page",
+        "documentation": {}
+    },
+    {
+        "label": "LINK_PRODUTO",
+        "kind": 5,
+        "importPath": "features.pages.product_page",
+        "description": "features.pages.product_page",
+        "peekOfCode": "LINK_PRODUTO = \"h3.product-title a\"\nFOTO_PRODUTO = \"div.layer[data-toggle='modal']\"  \ndef acessar_pagina_inicial():\n    driver = get_driver()\n    driver.get(URL_PRINCIPAL)\n    time.sleep(5) \ndef entrar_no_iframe():\n    driver = get_driver()\n    driver.switch_to.default_content()\n    iframe = WebDriverWait(driver, 15).until(",
+        "detail": "features.pages.product_page",
+        "documentation": {}
+    },
+    {
+        "label": "FOTO_PRODUTO",
+        "kind": 5,
+        "importPath": "features.pages.product_page",
+        "description": "features.pages.product_page",
+        "peekOfCode": "FOTO_PRODUTO = \"div.layer[data-toggle='modal']\"  \ndef acessar_pagina_inicial():\n    driver = get_driver()\n    driver.get(URL_PRINCIPAL)\n    time.sleep(5) \ndef entrar_no_iframe():\n    driver = get_driver()\n    driver.switch_to.default_content()\n    iframe = WebDriverWait(driver, 15).until(\n        EC.presence_of_element_located((By.TAG_NAME, \"iframe\"))",
+        "detail": "features.pages.product_page",
+        "documentation": {}
+    },
+    {
+        "label": "acessar_pagina_principal",
+        "kind": 2,
+        "importPath": "features.pages.wishlist_page",
+        "description": "features.pages.wishlist_page",
+        "peekOfCode": "def acessar_pagina_principal():\n    driver = get_driver()\n    driver.get(URL_PRINCIPAL)\n    try:\n        iframe = WebDriverWait(driver, 5).until(\n            EC.presence_of_element_located((By.TAG_NAME, \"iframe\"))\n        )\n        driver.switch_to.frame(iframe)\n    except:\n        pass",
+        "detail": "features.pages.wishlist_page",
+        "documentation": {}
+    },
+    {
+        "label": "clicar_primeiro_produto_favorito",
+        "kind": 2,
+        "importPath": "features.pages.wishlist_page",
+        "description": "features.pages.wishlist_page",
+        "peekOfCode": "def clicar_primeiro_produto_favorito():\n    driver = get_driver()\n    driver.get(URL_PRINCIPAL)\n    iframe = WebDriverWait(driver, 10).until(\n        EC.presence_of_element_located((By.TAG_NAME, \"iframe\"))\n    )\n    driver.switch_to.frame(iframe)\n    time.sleep(10)\n    primeiro_produto = WebDriverWait(driver, 15).until(\n        EC.element_to_be_clickable((By.CSS_SELECTOR, PRIMEIRO_PRODUTO))",
+        "detail": "features.pages.wishlist_page",
+        "documentation": {}
+    },
+    {
+        "label": "confirmar_adicao_wishlist",
+        "kind": 2,
+        "importPath": "features.pages.wishlist_page",
+        "description": "features.pages.wishlist_page",
+        "peekOfCode": "def confirmar_adicao_wishlist():\n    driver = get_driver()\n    modal = WebDriverWait(driver, 10).until(\n        EC.visibility_of_element_located((By.CSS_SELECTOR, MODAL_ADD_WISHLIST))\n    )\n    confirmar = modal.find_element(By.CSS_SELECTOR, CONFIRMAR_ADD)\n    confirmar.click()\ndef clicar_nome_perfil():\n    driver = get_driver()\n    nome = WebDriverWait(driver, 10).until(",
+        "detail": "features.pages.wishlist_page",
+        "documentation": {}
+    },
+    {
+        "label": "clicar_nome_perfil",
+        "kind": 2,
+        "importPath": "features.pages.wishlist_page",
+        "description": "features.pages.wishlist_page",
+        "peekOfCode": "def clicar_nome_perfil():\n    driver = get_driver()\n    nome = WebDriverWait(driver, 10).until(\n        EC.element_to_be_clickable((By.CSS_SELECTOR, NOME_PERFIL))\n    )\n    nome.click()\ndef acessar_my_wishlists():\n    driver = get_driver()\n    link = WebDriverWait(driver, 10).until(\n        EC.element_to_be_clickable((By.CSS_SELECTOR, LINK_MY_WISHLISTS))",
+        "detail": "features.pages.wishlist_page",
+        "documentation": {}
+    },
+    {
+        "label": "acessar_my_wishlists",
+        "kind": 2,
+        "importPath": "features.pages.wishlist_page",
+        "description": "features.pages.wishlist_page",
+        "peekOfCode": "def acessar_my_wishlists():\n    driver = get_driver()\n    link = WebDriverWait(driver, 10).until(\n        EC.element_to_be_clickable((By.CSS_SELECTOR, LINK_MY_WISHLISTS))\n    )\n    link.click()\ndef produto_esta_visivel():\n    driver = get_driver()\n    try:\n        # Espera o item aparecer na lista de desejos",
+        "detail": "features.pages.wishlist_page",
+        "documentation": {}
+    },
+    {
+        "label": "produto_esta_visivel",
+        "kind": 2,
+        "importPath": "features.pages.wishlist_page",
+        "description": "features.pages.wishlist_page",
+        "peekOfCode": "def produto_esta_visivel():\n    driver = get_driver()\n    try:\n        # Espera o item aparecer na lista de desejos\n        produto = WebDriverWait(driver, 10).until(\n            EC.visibility_of_element_located((By.CSS_SELECTOR, WISHLIST_PRODUTO))\n        )\n        return True\n    except:\n        return False",
+        "detail": "features.pages.wishlist_page",
+        "documentation": {}
+    },
+    {
+        "label": "URL_PRINCIPAL",
+        "kind": 5,
+        "importPath": "features.pages.wishlist_page",
+        "description": "features.pages.wishlist_page",
+        "peekOfCode": "URL_PRINCIPAL = \"https://demo.prestashop.com/#/en/front\"\nPRIMEIRO_PRODUTO = \"article.product-miniature.js-product-miniature\"\nICONE_CORACAO = \"button.wishlist-button-add\"\nMODAL_ADD_WISHLIST = \"div.wishlist-chooselist\"\nCONFIRMAR_ADD = \"ul.wishlist-list li.wishlist-list-item p\"\nNOME_PERFIL = \"a.account\"\nLINK_MY_WISHLISTS = \"a#wishlist-link\"\nWISHLIST_PRODUTO = \"a.wishlist-list-item-link p.wishlist-list-item-title\"\ndef acessar_pagina_principal():\n    driver = get_driver()",
+        "detail": "features.pages.wishlist_page",
+        "documentation": {}
+    },
+    {
+        "label": "PRIMEIRO_PRODUTO",
+        "kind": 5,
+        "importPath": "features.pages.wishlist_page",
+        "description": "features.pages.wishlist_page",
+        "peekOfCode": "PRIMEIRO_PRODUTO = \"article.product-miniature.js-product-miniature\"\nICONE_CORACAO = \"button.wishlist-button-add\"\nMODAL_ADD_WISHLIST = \"div.wishlist-chooselist\"\nCONFIRMAR_ADD = \"ul.wishlist-list li.wishlist-list-item p\"\nNOME_PERFIL = \"a.account\"\nLINK_MY_WISHLISTS = \"a#wishlist-link\"\nWISHLIST_PRODUTO = \"a.wishlist-list-item-link p.wishlist-list-item-title\"\ndef acessar_pagina_principal():\n    driver = get_driver()\n    driver.get(URL_PRINCIPAL)",
+        "detail": "features.pages.wishlist_page",
+        "documentation": {}
+    },
+    {
+        "label": "ICONE_CORACAO",
+        "kind": 5,
+        "importPath": "features.pages.wishlist_page",
+        "description": "features.pages.wishlist_page",
+        "peekOfCode": "ICONE_CORACAO = \"button.wishlist-button-add\"\nMODAL_ADD_WISHLIST = \"div.wishlist-chooselist\"\nCONFIRMAR_ADD = \"ul.wishlist-list li.wishlist-list-item p\"\nNOME_PERFIL = \"a.account\"\nLINK_MY_WISHLISTS = \"a#wishlist-link\"\nWISHLIST_PRODUTO = \"a.wishlist-list-item-link p.wishlist-list-item-title\"\ndef acessar_pagina_principal():\n    driver = get_driver()\n    driver.get(URL_PRINCIPAL)\n    try:",
+        "detail": "features.pages.wishlist_page",
+        "documentation": {}
+    },
+    {
+        "label": "MODAL_ADD_WISHLIST",
+        "kind": 5,
+        "importPath": "features.pages.wishlist_page",
+        "description": "features.pages.wishlist_page",
+        "peekOfCode": "MODAL_ADD_WISHLIST = \"div.wishlist-chooselist\"\nCONFIRMAR_ADD = \"ul.wishlist-list li.wishlist-list-item p\"\nNOME_PERFIL = \"a.account\"\nLINK_MY_WISHLISTS = \"a#wishlist-link\"\nWISHLIST_PRODUTO = \"a.wishlist-list-item-link p.wishlist-list-item-title\"\ndef acessar_pagina_principal():\n    driver = get_driver()\n    driver.get(URL_PRINCIPAL)\n    try:\n        iframe = WebDriverWait(driver, 5).until(",
+        "detail": "features.pages.wishlist_page",
+        "documentation": {}
+    },
+    {
+        "label": "CONFIRMAR_ADD",
+        "kind": 5,
+        "importPath": "features.pages.wishlist_page",
+        "description": "features.pages.wishlist_page",
+        "peekOfCode": "CONFIRMAR_ADD = \"ul.wishlist-list li.wishlist-list-item p\"\nNOME_PERFIL = \"a.account\"\nLINK_MY_WISHLISTS = \"a#wishlist-link\"\nWISHLIST_PRODUTO = \"a.wishlist-list-item-link p.wishlist-list-item-title\"\ndef acessar_pagina_principal():\n    driver = get_driver()\n    driver.get(URL_PRINCIPAL)\n    try:\n        iframe = WebDriverWait(driver, 5).until(\n            EC.presence_of_element_located((By.TAG_NAME, \"iframe\"))",
+        "detail": "features.pages.wishlist_page",
+        "documentation": {}
+    },
+    {
+        "label": "NOME_PERFIL",
+        "kind": 5,
+        "importPath": "features.pages.wishlist_page",
+        "description": "features.pages.wishlist_page",
+        "peekOfCode": "NOME_PERFIL = \"a.account\"\nLINK_MY_WISHLISTS = \"a#wishlist-link\"\nWISHLIST_PRODUTO = \"a.wishlist-list-item-link p.wishlist-list-item-title\"\ndef acessar_pagina_principal():\n    driver = get_driver()\n    driver.get(URL_PRINCIPAL)\n    try:\n        iframe = WebDriverWait(driver, 5).until(\n            EC.presence_of_element_located((By.TAG_NAME, \"iframe\"))\n        )",
+        "detail": "features.pages.wishlist_page",
+        "documentation": {}
+    },
+    {
+        "label": "LINK_MY_WISHLISTS",
+        "kind": 5,
+        "importPath": "features.pages.wishlist_page",
+        "description": "features.pages.wishlist_page",
+        "peekOfCode": "LINK_MY_WISHLISTS = \"a#wishlist-link\"\nWISHLIST_PRODUTO = \"a.wishlist-list-item-link p.wishlist-list-item-title\"\ndef acessar_pagina_principal():\n    driver = get_driver()\n    driver.get(URL_PRINCIPAL)\n    try:\n        iframe = WebDriverWait(driver, 5).until(\n            EC.presence_of_element_located((By.TAG_NAME, \"iframe\"))\n        )\n        driver.switch_to.frame(iframe)",
+        "detail": "features.pages.wishlist_page",
+        "documentation": {}
+    },
+    {
+        "label": "WISHLIST_PRODUTO",
+        "kind": 5,
+        "importPath": "features.pages.wishlist_page",
+        "description": "features.pages.wishlist_page",
+        "peekOfCode": "WISHLIST_PRODUTO = \"a.wishlist-list-item-link p.wishlist-list-item-title\"\ndef acessar_pagina_principal():\n    driver = get_driver()\n    driver.get(URL_PRINCIPAL)\n    try:\n        iframe = WebDriverWait(driver, 5).until(\n            EC.presence_of_element_located((By.TAG_NAME, \"iframe\"))\n        )\n        driver.switch_to.frame(iframe)\n    except:",
+        "detail": "features.pages.wishlist_page",
+        "documentation": {}
+    },
+    {
         "label": "step_acessar_site",
         "kind": 2,
         "importPath": "features.steps.cadastro_step",
@@ -559,11 +1056,137 @@
         "documentation": {}
     },
     {
+        "label": "step_acessar_site",
+        "kind": 2,
+        "importPath": "features.steps.filtro_categoria_steps",
+        "description": "features.steps.filtro_categoria_steps",
+        "peekOfCode": "def step_acessar_site(context, url):\n    filtro.acessar_site()\n@when(u'eu clico no nome \"{nome}\" na navbar')\ndef step_clicar_nome_navbar(context, nome):\n    if nome.lower() == \"clothes\":\n        filtro.clicar_clothes()\n    else:\n        raise NotImplementedError(f\"NavBar {nome} não implementado\")\n@when(u'eu clico na categoria \"{categoria}\"')\ndef step_clicar_categoria(context, categoria):",
+        "detail": "features.steps.filtro_categoria_steps",
+        "documentation": {}
+    },
+    {
+        "label": "step_clicar_nome_navbar",
+        "kind": 2,
+        "importPath": "features.steps.filtro_categoria_steps",
+        "description": "features.steps.filtro_categoria_steps",
+        "peekOfCode": "def step_clicar_nome_navbar(context, nome):\n    if nome.lower() == \"clothes\":\n        filtro.clicar_clothes()\n    else:\n        raise NotImplementedError(f\"NavBar {nome} não implementado\")\n@when(u'eu clico na categoria \"{categoria}\"')\ndef step_clicar_categoria(context, categoria):\n    if categoria.lower() == \"men\":\n        filtro.clicar_men()\n    else:",
+        "detail": "features.steps.filtro_categoria_steps",
+        "documentation": {}
+    },
+    {
+        "label": "step_clicar_categoria",
+        "kind": 2,
+        "importPath": "features.steps.filtro_categoria_steps",
+        "description": "features.steps.filtro_categoria_steps",
+        "peekOfCode": "def step_clicar_categoria(context, categoria):\n    if categoria.lower() == \"men\":\n        filtro.clicar_men()\n    else:\n        raise NotImplementedError(f\"Categoria {categoria} não implementada\")\n@then(u'os produtos da categoria MEN devem ser exibidos')\ndef step_verificar_categoria(context):\n    time.sleep(3)\n    pass",
+        "detail": "features.steps.filtro_categoria_steps",
+        "documentation": {}
+    },
+    {
+        "label": "step_verificar_categoria",
+        "kind": 2,
+        "importPath": "features.steps.filtro_categoria_steps",
+        "description": "features.steps.filtro_categoria_steps",
+        "peekOfCode": "def step_verificar_categoria(context):\n    time.sleep(3)\n    pass",
+        "detail": "features.steps.filtro_categoria_steps",
+        "documentation": {}
+    },
+    {
+        "label": "step_abrir_pagina_inicial",
+        "kind": 2,
+        "importPath": "features.steps.product_steps",
+        "description": "features.steps.product_steps",
+        "peekOfCode": "def step_abrir_pagina_inicial(context):\n    product.acessar_pagina_inicial()\n@when(u'eu clico no produto desejado para abrir a página do produto específico')\ndef step_clicar_produto(context):\n    product.clicar_produto_desejado()\n@when(u'clico na foto do produto')\ndef step_clicar_foto(context):\n    product.clicar_foto_produto()\n@then(u'a imagem do produto deve ser exibida em modo ampliado')\ndef step_validar_imagem_ampliada(context):",
+        "detail": "features.steps.product_steps",
+        "documentation": {}
+    },
+    {
+        "label": "step_clicar_produto",
+        "kind": 2,
+        "importPath": "features.steps.product_steps",
+        "description": "features.steps.product_steps",
+        "peekOfCode": "def step_clicar_produto(context):\n    product.clicar_produto_desejado()\n@when(u'clico na foto do produto')\ndef step_clicar_foto(context):\n    product.clicar_foto_produto()\n@then(u'a imagem do produto deve ser exibida em modo ampliado')\ndef step_validar_imagem_ampliada(context):\n    assert product.imagem_ampliada_exibida(), \"Imagem ampliada não exibida\"",
+        "detail": "features.steps.product_steps",
+        "documentation": {}
+    },
+    {
+        "label": "step_clicar_foto",
+        "kind": 2,
+        "importPath": "features.steps.product_steps",
+        "description": "features.steps.product_steps",
+        "peekOfCode": "def step_clicar_foto(context):\n    product.clicar_foto_produto()\n@then(u'a imagem do produto deve ser exibida em modo ampliado')\ndef step_validar_imagem_ampliada(context):\n    assert product.imagem_ampliada_exibida(), \"Imagem ampliada não exibida\"",
+        "detail": "features.steps.product_steps",
+        "documentation": {}
+    },
+    {
+        "label": "step_validar_imagem_ampliada",
+        "kind": 2,
+        "importPath": "features.steps.product_steps",
+        "description": "features.steps.product_steps",
+        "peekOfCode": "def step_validar_imagem_ampliada(context):\n    assert product.imagem_ampliada_exibida(), \"Imagem ampliada não exibida\"",
+        "detail": "features.steps.product_steps",
+        "documentation": {}
+    },
+    {
+        "label": "step_usuario_logado",
+        "kind": 2,
+        "importPath": "features.steps.wishlist_step",
+        "description": "features.steps.wishlist_step",
+        "peekOfCode": "def step_usuario_logado(context):\n    context.execute_steps('''\n        Given que o site PrestaShop Demo seja acessado\n        Given que o usuário clique no botão Sign In\n        Given que o usuário clique para criar uma nova conta\n        Given que o usuário preencha todos os campos obrigatórios do cadastro\n        When o usuário clicar no botão Save\n        Then o sistema deverá registrar o usuário com sucesso\n    ''')\n@when(u'eu escolho o primeiro produto e clico no ícone de coração para adicionar à lista de desejos')",
+        "detail": "features.steps.wishlist_step",
+        "documentation": {}
+    },
+    {
+        "label": "step_clicar_icone_coracao",
+        "kind": 2,
+        "importPath": "features.steps.wishlist_step",
+        "description": "features.steps.wishlist_step",
+        "peekOfCode": "def step_clicar_icone_coracao(context):\n    wishlist.clicar_primeiro_produto_favorito()\n@when(u'no modal \"Add to wishlist\" confirmo a adição do produto')\ndef step_confirmar_modal(context):\n    wishlist.confirmar_adicao_wishlist()\n@when(u'eu clico no meu nome na aba de notificações para acessar o perfil')\ndef step_clicar_nome_perfil(context):\n    wishlist.clicar_nome_perfil()\n@when(u'entro na página \"My wishlists\"')\ndef step_entrar_my_wishlists(context):",
+        "detail": "features.steps.wishlist_step",
+        "documentation": {}
+    },
+    {
+        "label": "step_confirmar_modal",
+        "kind": 2,
+        "importPath": "features.steps.wishlist_step",
+        "description": "features.steps.wishlist_step",
+        "peekOfCode": "def step_confirmar_modal(context):\n    wishlist.confirmar_adicao_wishlist()\n@when(u'eu clico no meu nome na aba de notificações para acessar o perfil')\ndef step_clicar_nome_perfil(context):\n    wishlist.clicar_nome_perfil()\n@when(u'entro na página \"My wishlists\"')\ndef step_entrar_my_wishlists(context):\n    wishlist.acessar_my_wishlists()\n@then(u'o produto adicionado deve estar visível na lista de desejos')\ndef step_validar_produto_wishlist(context):",
+        "detail": "features.steps.wishlist_step",
+        "documentation": {}
+    },
+    {
+        "label": "step_clicar_nome_perfil",
+        "kind": 2,
+        "importPath": "features.steps.wishlist_step",
+        "description": "features.steps.wishlist_step",
+        "peekOfCode": "def step_clicar_nome_perfil(context):\n    wishlist.clicar_nome_perfil()\n@when(u'entro na página \"My wishlists\"')\ndef step_entrar_my_wishlists(context):\n    wishlist.acessar_my_wishlists()\n@then(u'o produto adicionado deve estar visível na lista de desejos')\ndef step_validar_produto_wishlist(context):\n    assert wishlist.produto_esta_visivel(), \"Produto não encontrado na lista de desejos\"",
+        "detail": "features.steps.wishlist_step",
+        "documentation": {}
+    },
+    {
+        "label": "step_entrar_my_wishlists",
+        "kind": 2,
+        "importPath": "features.steps.wishlist_step",
+        "description": "features.steps.wishlist_step",
+        "peekOfCode": "def step_entrar_my_wishlists(context):\n    wishlist.acessar_my_wishlists()\n@then(u'o produto adicionado deve estar visível na lista de desejos')\ndef step_validar_produto_wishlist(context):\n    assert wishlist.produto_esta_visivel(), \"Produto não encontrado na lista de desejos\"",
+        "detail": "features.steps.wishlist_step",
+        "documentation": {}
+    },
+    {
+        "label": "step_validar_produto_wishlist",
+        "kind": 2,
+        "importPath": "features.steps.wishlist_step",
+        "description": "features.steps.wishlist_step",
+        "peekOfCode": "def step_validar_produto_wishlist(context):\n    assert wishlist.produto_esta_visivel(), \"Produto não encontrado na lista de desejos\"",
+        "detail": "features.steps.wishlist_step",
+        "documentation": {}
+    },
+    {
         "label": "before_scenario",
         "kind": 2,
         "importPath": "features.environment",
         "description": "features.environment",
-        "peekOfCode": "def before_scenario(context, scenario):\n    service = Service(ChromeDriverManager().install())\n    # options = webdriver.ChromeOptions()\n    driver = webdriver.Chrome(service=service)\n    driver.implicitly_wait(10)\n    # context.driver.set_window_position(2000, 0)\n    set_driver(driver)\ndef after_scenario(context, scenario):\n    print(scenario.name)\n    driver = get_driver()",
+        "peekOfCode": "def before_scenario(context, scenario):\n    service = Service(ChromeDriverManager().install())\n    # options = webdriver.ChromeOptions()\n    driver = webdriver.Chrome(service=service)\n    driver.maximize_window()\n    driver.implicitly_wait(10)\n    # context.driver.set_window_position(2000, 0)\n    set_driver(driver)\ndef after_scenario(context, scenario):\n    print(scenario.name)",
         "detail": "features.environment",
         "documentation": {}
     },
