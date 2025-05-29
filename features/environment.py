@@ -4,7 +4,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.support.ui import WebDriverWait
-from behave.model_core import Status
+from behave.model_core import Status # type: ignore
 
 # HOOKS
 def before_scenario(context, scenario):
