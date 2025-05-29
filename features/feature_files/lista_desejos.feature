@@ -15,4 +15,3 @@ Cenário: Adicionar produto à lista de desejos e visualizar na My Wishlists
   E entro na página "My wishlists"
   E eu clico no item "My wishlist" na lista de desejos
   Então o produto adicionado é mostrado
-

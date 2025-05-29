@@ -75,4 +75,3 @@ def clicar_my_wishlist_item():
     elemento.click()
     time.sleep(3)
     
-    

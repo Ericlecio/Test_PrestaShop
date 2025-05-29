@@ -24,3 +24,4 @@ def step_clicar_item_my_wishlist(context):
 @then(u'o produto adicionado é mostrado')
 def step_validar_produto_wishlist(context):
     assert wishlist.produto_esta_visivel(), "Produto não encontrado na lista de desejos"
+
