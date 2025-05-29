@@ -10,3 +10,4 @@ Funcionalidade: Cadastro de usuário no PrestaShop
     Cenário: Realizar cadastro com sucesso
         Quando o usuário clicar no botão Save
         Então o sistema deverá registrar o usuário com sucesso
+

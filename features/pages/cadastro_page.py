@@ -77,3 +77,4 @@ def preencher_todos_os_campos():
     preencher_data_nascimento()
     aceitar_termos()
     aceitar_privacidade()
+
