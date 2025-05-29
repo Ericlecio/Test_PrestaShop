@@ -1,6 +1,6 @@
 Funcionalidade: Responsividade do layout
 
-  
+  @KG
   Cenário: Ajuste automático de layout ao redimensionar a janela
     Dado o usuário acessa o site
     Quando o usuário redimensiona a janela do navegador
