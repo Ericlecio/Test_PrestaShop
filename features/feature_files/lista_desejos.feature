@@ -8,6 +8,7 @@ Contexto:
   Quando o usuário clicar no botão Save
   Então o sistema deverá registrar o usuário com sucesso
 
+@ET
 Cenário: Adicionar produto à lista de desejos e visualizar na My Wishlists
   Quando eu escolho o primeiro produto e clico no ícone de coração para adicionar à lista de desejos
   E no modal "Add to wishlist" confirmo a adição do produto
