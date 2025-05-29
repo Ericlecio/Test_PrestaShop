@@ -6,7 +6,7 @@ Funcionalidade: Cadastro de usuário no PrestaShop
         E que o usuário clique para criar uma nova conta
         E que o usuário preencha todos os campos obrigatórios do cadastro
 
-    @teste
+    @ET
     Cenário: Realizar cadastro com sucesso
         Quando o usuário clicar no botão Save
         Então o sistema deverá registrar o usuário com sucesso
