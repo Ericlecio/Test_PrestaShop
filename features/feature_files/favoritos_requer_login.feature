@@ -1,5 +1,6 @@
 Funcionalidade: Adicionar produto aos favoritos
 
+  @KG
   Cenário: Usuário não autenticado tenta favoritar um produto
       Dado que o usuário acessa o site
       Quando clica no ícone de coração de um produto
