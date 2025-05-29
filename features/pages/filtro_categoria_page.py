@@ -43,7 +43,6 @@ def clicar_men():
     men.click()
     print("[DEBUG] Clicou no link MEN")
 
-    # Agora verificar imediatamente o título da categoria
     titulo = WebDriverWait(driver, 15).until(
         EC.visibility_of_element_located((By.CSS_SELECTOR, TITULO_CATEGORIA))
     )

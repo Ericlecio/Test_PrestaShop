@@ -720,7 +720,7 @@
         "kind": 2,
         "importPath": "features.pages.filtro_categoria_page",
         "description": "features.pages.filtro_categoria_page",
-        "peekOfCode": "def clicar_men():\n    driver = get_driver()\n    driver.switch_to.default_content()\n    entrar_no_iframe()\n    men = WebDriverWait(driver, 15).until(\n        EC.element_to_be_clickable((By.CSS_SELECTOR, LINK_MEN))\n    )\n    men.click()\n    print(\"[DEBUG] Clicou no link MEN\")\n    # Agora verificar imediatamente o título da categoria",
+        "peekOfCode": "def clicar_men():\n    driver = get_driver()\n    driver.switch_to.default_content()\n    entrar_no_iframe()\n    men = WebDriverWait(driver, 15).until(\n        EC.element_to_be_clickable((By.CSS_SELECTOR, LINK_MEN))\n    )\n    men.click()\n    print(\"[DEBUG] Clicou no link MEN\")\n    titulo = WebDriverWait(driver, 15).until(",
         "detail": "features.pages.filtro_categoria_page",
         "documentation": {}
     },

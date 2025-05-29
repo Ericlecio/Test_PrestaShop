@@ -5,3 +5,4 @@ Funcionalidade: Filtro de Produto pela categoria MEN
     Quando eu clico no nome "Clothes" na navbar
     E eu clico na categoria "MEN"
     Então os produtos da categoria MEN devem ser exibidos
+

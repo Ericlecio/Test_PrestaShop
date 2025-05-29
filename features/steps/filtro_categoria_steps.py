@@ -25,3 +25,4 @@ def step_clicar_categoria(context, categoria):
 def step_verificar_categoria(context):
     time.sleep(3)
     pass
+
