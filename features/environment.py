@@ -4,13 +4,14 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.support.ui import WebDriverWait
-from behave.model_core import Status
+from behave.model_core import Status # type: ignore
 
 # HOOKS
 def before_scenario(context, scenario):
     service = Service(ChromeDriverManager().install())
     # options = webdriver.ChromeOptions()
     driver = webdriver.Chrome(service=service)
+    driver.maximize_window()
     driver.implicitly_wait(10)
     # context.driver.set_window_position(2000, 0)
     set_driver(driver)
