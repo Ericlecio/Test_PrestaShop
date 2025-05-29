@@ -30,3 +30,4 @@ def step_clicar_save(context):
 @then(u'o sistema deverá registrar o usuário com sucesso')
 def step_verificar_cadastro(context):
     assert cadastro.verificar_cadastro_sucesso(), "Cadastro não realizado com sucesso!"
+
