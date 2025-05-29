@@ -5,7 +5,6 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 
 URL_PRINCIPAL = "https://demo.prestashop.com/#/en/front"
-
 PRIMEIRO_PRODUTO = "article.product-miniature.js-product-miniature"
 LINK_PRODUTO = "h3.product-title a"
 FOTO_PRODUTO = "div.layer[data-toggle='modal']"  

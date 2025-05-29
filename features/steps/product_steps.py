@@ -16,4 +16,3 @@ def step_clicar_foto(context):
 @then(u'a imagem do produto deve ser exibida em modo ampliado')
 def step_validar_imagem_ampliada(context):
     assert product.imagem_ampliada_exibida(), "Imagem ampliada não exibida"
-
