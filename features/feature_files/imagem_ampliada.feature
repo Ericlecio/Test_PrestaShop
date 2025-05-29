@@ -1,5 +1,6 @@
 Funcionalidade: Visualizar imagem ampliada do produto
 
+  @ET
   Cenário: Visualizar imagem ampliada do produto na página inicial
     Dado que eu estou na página inicial do site
     Quando eu clico no produto desejado para abrir a página do produto específico
