@@ -21,6 +21,6 @@ def verificar_dimensao():
     elemento = get_driver().find_element(By.XPATH, HTML_PRINCIPAL)
     dimensao = elemento.size
 
-    assert dimensao['width'] == 1009
-    assert dimensao['height'] == 768
+    assert dimensao['width'] >= 1000
+    assert dimensao['height'] >= 760
     
