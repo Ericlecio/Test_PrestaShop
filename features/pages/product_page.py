@@ -3,6 +3,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
+from features.pages.base_page import *
 
 URL_PRINCIPAL = "https://demo.prestashop.com/#/en/front"
 PRIMEIRO_PRODUTO = "article.product-miniature.js-product-miniature"
@@ -37,9 +38,7 @@ def clicar_produto_desejado():
 def clicar_foto_produto():
     driver = get_driver()
     entrar_no_iframe()
-    foto = WebDriverWait(driver, 10).until(
-        EC.element_to_be_clickable((By.CSS_SELECTOR, FOTO_PRODUTO))
-    )
+    foto = find_element(FOTO_PRODUTO)
     foto.click()
     time.sleep(5)  
 
