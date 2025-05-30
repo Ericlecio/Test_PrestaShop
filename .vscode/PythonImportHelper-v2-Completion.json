@@ -40,6 +40,86 @@
         "documentation": {}
     },
     {
+        "label": "get_driver",
+        "importPath": "features.helpers.driver",
+        "description": "features.helpers.driver",
+        "isExtraImport": true,
+        "detail": "features.helpers.driver",
+        "documentation": {}
+    },
+    {
+        "label": "get_driver",
+        "importPath": "features.helpers.driver",
+        "description": "features.helpers.driver",
+        "isExtraImport": true,
+        "detail": "features.helpers.driver",
+        "documentation": {}
+    },
+    {
+        "label": "get_driver",
+        "importPath": "features.helpers.driver",
+        "description": "features.helpers.driver",
+        "isExtraImport": true,
+        "detail": "features.helpers.driver",
+        "documentation": {}
+    },
+    {
+        "label": "get_driver",
+        "importPath": "features.helpers.driver",
+        "description": "features.helpers.driver",
+        "isExtraImport": true,
+        "detail": "features.helpers.driver",
+        "documentation": {}
+    },
+    {
+        "label": "get_driver",
+        "importPath": "features.helpers.driver",
+        "description": "features.helpers.driver",
+        "isExtraImport": true,
+        "detail": "features.helpers.driver",
+        "documentation": {}
+    },
+    {
+        "label": "get_driver",
+        "importPath": "features.helpers.driver",
+        "description": "features.helpers.driver",
+        "isExtraImport": true,
+        "detail": "features.helpers.driver",
+        "documentation": {}
+    },
+    {
+        "label": "get_driver",
+        "importPath": "features.helpers.driver",
+        "description": "features.helpers.driver",
+        "isExtraImport": true,
+        "detail": "features.helpers.driver",
+        "documentation": {}
+    },
+    {
+        "label": "get_driver",
+        "importPath": "features.helpers.driver",
+        "description": "features.helpers.driver",
+        "isExtraImport": true,
+        "detail": "features.helpers.driver",
+        "documentation": {}
+    },
+    {
+        "label": "get_driver",
+        "importPath": "features.helpers.driver",
+        "description": "features.helpers.driver",
+        "isExtraImport": true,
+        "detail": "features.helpers.driver",
+        "documentation": {}
+    },
+    {
+        "label": "get_driver",
+        "importPath": "features.helpers.driver",
+        "description": "features.helpers.driver",
+        "isExtraImport": true,
+        "detail": "features.helpers.driver",
+        "documentation": {}
+    },
+    {
         "label": "*",
         "importPath": "features.helpers.driver",
         "description": "features.helpers.driver",
@@ -88,7 +168,23 @@
         "documentation": {}
     },
     {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
         "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "Select",
         "importPath": "selenium.webdriver.support.ui",
         "description": "selenium.webdriver.support.ui",
         "isExtraImport": true,
@@ -104,7 +200,23 @@
         "documentation": {}
     },
     {
+        "label": "Select",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
         "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "Select",
         "importPath": "selenium.webdriver.support.ui",
         "description": "selenium.webdriver.support.ui",
         "isExtraImport": true,
@@ -168,12 +280,236 @@
         "documentation": {}
     },
     {
+        "label": "*",
+        "importPath": "features.pages.base_page",
+        "description": "features.pages.base_page",
+        "isExtraImport": true,
+        "detail": "features.pages.base_page",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "features.pages.base_page",
+        "description": "features.pages.base_page",
+        "isExtraImport": true,
+        "detail": "features.pages.base_page",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "features.pages.base_page",
+        "description": "features.pages.base_page",
+        "isExtraImport": true,
+        "detail": "features.pages.base_page",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "features.pages.base_page",
+        "description": "features.pages.base_page",
+        "isExtraImport": true,
+        "detail": "features.pages.base_page",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "features.pages.base_page",
+        "description": "features.pages.base_page",
+        "isExtraImport": true,
+        "detail": "features.pages.base_page",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "features.pages.base_page",
+        "description": "features.pages.base_page",
+        "isExtraImport": true,
+        "detail": "features.pages.base_page",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "features.pages.base_page",
+        "description": "features.pages.base_page",
+        "isExtraImport": true,
+        "detail": "features.pages.base_page",
+        "documentation": {}
+    },
+    {
         "label": "time",
         "kind": 6,
         "isExtraImport": true,
         "importPath": "time",
         "description": "time",
         "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "TimeoutException",
+        "importPath": "selenium.common.exceptions",
+        "description": "selenium.common.exceptions",
+        "isExtraImport": true,
+        "detail": "selenium.common.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "TimeoutException",
+        "importPath": "selenium.common.exceptions",
+        "description": "selenium.common.exceptions",
+        "isExtraImport": true,
+        "detail": "selenium.common.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "TimeoutException",
+        "importPath": "selenium.common.exceptions",
+        "description": "selenium.common.exceptions",
+        "isExtraImport": true,
+        "detail": "selenium.common.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "given",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "when",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "then",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "given",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "when",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "then",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "given",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "when",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "then",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "given",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "when",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "then",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "given",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "when",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "then",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "given",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "when",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
+        "documentation": {}
+    },
+    {
+        "label": "then",
+        "importPath": "behave",
+        "description": "behave",
+        "isExtraImport": true,
+        "detail": "behave",
         "documentation": {}
     },
     {
@@ -273,7 +609,23 @@
         "documentation": {}
     },
     {
+        "label": "favoritos_requer_login_page",
+        "importPath": "features.pages",
+        "description": "features.pages",
+        "isExtraImport": true,
+        "detail": "features.pages",
+        "documentation": {}
+    },
+    {
         "label": "filtro_categoria_page",
+        "importPath": "features.pages",
+        "description": "features.pages",
+        "isExtraImport": true,
+        "detail": "features.pages",
+        "documentation": {}
+    },
+    {
+        "label": "filtro_produto_por_dimensao_page",
         "importPath": "features.pages",
         "description": "features.pages",
         "isExtraImport": true,
@@ -289,11 +641,43 @@
         "documentation": {}
     },
     {
+        "label": "responsividade_layout_page",
+        "importPath": "features.pages",
+        "description": "features.pages",
+        "isExtraImport": true,
+        "detail": "features.pages",
+        "documentation": {}
+    },
+    {
         "label": "wishlist_page",
         "importPath": "features.pages",
         "description": "features.pages",
         "isExtraImport": true,
         "detail": "features.pages",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "features.pages.clique_show_page",
+        "description": "features.pages.clique_show_page",
+        "isExtraImport": true,
+        "detail": "features.pages.clique_show_page",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "features.pages.hide_page",
+        "description": "features.pages.hide_page",
+        "isExtraImport": true,
+        "detail": "features.pages.hide_page",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "features.pages.realizar_compra_page",
+        "description": "features.pages.realizar_compra_page",
+        "isExtraImport": true,
+        "detail": "features.pages.realizar_compra_page",
         "documentation": {}
     },
     {
@@ -689,6 +1073,118 @@
         "documentation": {}
     },
     {
+        "label": "botao_hide",
+        "kind": 2,
+        "importPath": "features.pages.clique_show_page",
+        "description": "features.pages.clique_show_page",
+        "peekOfCode": "def botao_hide():\n    find_element(BOTAO_HIDE).click()\n    time.sleep(5)\ndef  botao_show():\n     find_element(BOTAO_SHOW).click()\n     time.sleep(5)\ndef elemento_visivel(localizador):\n    return WebDriverWait(get_driver(), 10).until(\n        EC.visibility_of_element_located(localizador)\n    )",
+        "detail": "features.pages.clique_show_page",
+        "documentation": {}
+    },
+    {
+        "label": {
+            "name": "",
+            "kind": 2,
+            "peekOfCode": "def  botao_show():\n     find_element(BOTAO_SHOW).click()\n     time.sleep(5)\ndef elemento_visivel(localizador):\n    return WebDriverWait(get_driver(), 10).until(\n        EC.visibility_of_element_located(localizador)\n    )"
+        },
+        "kind": 2,
+        "importPath": "features.pages.clique_show_page",
+        "description": "features.pages.clique_show_page",
+        "peekOfCode": "def  botao_show():\n     find_element(BOTAO_SHOW).click()\n     time.sleep(5)\ndef elemento_visivel(localizador):\n    return WebDriverWait(get_driver(), 10).until(\n        EC.visibility_of_element_located(localizador)\n    )",
+        "detail": "features.pages.clique_show_page",
+        "documentation": {}
+    },
+    {
+        "label": "elemento_visivel",
+        "kind": 2,
+        "importPath": "features.pages.clique_show_page",
+        "description": "features.pages.clique_show_page",
+        "peekOfCode": "def elemento_visivel(localizador):\n    return WebDriverWait(get_driver(), 10).until(\n        EC.visibility_of_element_located(localizador)\n    )",
+        "detail": "features.pages.clique_show_page",
+        "documentation": {}
+    },
+    {
+        "label": "BOTAO_HIDE",
+        "kind": 5,
+        "importPath": "features.pages.clique_show_page",
+        "description": "features.pages.clique_show_page",
+        "peekOfCode": "BOTAO_HIDE = \"a.btn.btn-collapse\"\nNOME_HIDE = (By.CLASS_NAME, \"hide-header\")\nBOTAO_SHOW = \"a.btn.btn-collapse\"\ndef botao_hide():\n    find_element(BOTAO_HIDE).click()\n    time.sleep(5)\ndef  botao_show():\n     find_element(BOTAO_SHOW).click()\n     time.sleep(5)\ndef elemento_visivel(localizador):",
+        "detail": "features.pages.clique_show_page",
+        "documentation": {}
+    },
+    {
+        "label": "NOME_HIDE",
+        "kind": 5,
+        "importPath": "features.pages.clique_show_page",
+        "description": "features.pages.clique_show_page",
+        "peekOfCode": "NOME_HIDE = (By.CLASS_NAME, \"hide-header\")\nBOTAO_SHOW = \"a.btn.btn-collapse\"\ndef botao_hide():\n    find_element(BOTAO_HIDE).click()\n    time.sleep(5)\ndef  botao_show():\n     find_element(BOTAO_SHOW).click()\n     time.sleep(5)\ndef elemento_visivel(localizador):\n    return WebDriverWait(get_driver(), 10).until(",
+        "detail": "features.pages.clique_show_page",
+        "documentation": {}
+    },
+    {
+        "label": "BOTAO_SHOW",
+        "kind": 5,
+        "importPath": "features.pages.clique_show_page",
+        "description": "features.pages.clique_show_page",
+        "peekOfCode": "BOTAO_SHOW = \"a.btn.btn-collapse\"\ndef botao_hide():\n    find_element(BOTAO_HIDE).click()\n    time.sleep(5)\ndef  botao_show():\n     find_element(BOTAO_SHOW).click()\n     time.sleep(5)\ndef elemento_visivel(localizador):\n    return WebDriverWait(get_driver(), 10).until(\n        EC.visibility_of_element_located(localizador)",
+        "detail": "features.pages.clique_show_page",
+        "documentation": {}
+    },
+    {
+        "label": "acessar_site",
+        "kind": 2,
+        "importPath": "features.pages.favoritos_requer_login_page",
+        "description": "features.pages.favoritos_requer_login_page",
+        "peekOfCode": "def acessar_site():\n    get_driver().get(\"https://demo.prestashop.com/#/en/front\")\n    time.sleep(3)\ndef entrar_no_iframe():\n    driver = get_driver()\n    driver.switch_to.default_content()\n    iframe = WebDriverWait(driver, 15).until(\n        EC.presence_of_element_located((By.TAG_NAME, \"iframe\"))\n    )\n    driver.switch_to.frame(iframe)",
+        "detail": "features.pages.favoritos_requer_login_page",
+        "documentation": {}
+    },
+    {
+        "label": "entrar_no_iframe",
+        "kind": 2,
+        "importPath": "features.pages.favoritos_requer_login_page",
+        "description": "features.pages.favoritos_requer_login_page",
+        "peekOfCode": "def entrar_no_iframe():\n    driver = get_driver()\n    driver.switch_to.default_content()\n    iframe = WebDriverWait(driver, 15).until(\n        EC.presence_of_element_located((By.TAG_NAME, \"iframe\"))\n    )\n    driver.switch_to.frame(iframe)\ndef clicar_botao_coracao():\n    entrar_no_iframe()\n    botao_coracao = find_element(ICONE_CORACAO)",
+        "detail": "features.pages.favoritos_requer_login_page",
+        "documentation": {}
+    },
+    {
+        "label": "clicar_botao_coracao",
+        "kind": 2,
+        "importPath": "features.pages.favoritos_requer_login_page",
+        "description": "features.pages.favoritos_requer_login_page",
+        "peekOfCode": "def clicar_botao_coracao():\n    entrar_no_iframe()\n    botao_coracao = find_element(ICONE_CORACAO)\n    botao_coracao.click()\n    time.sleep(5)\ndef verificar_mensagem(mensagem):\n    elemento_mensagem = get_driver().find_element(By.XPATH, TEXTO_MODAL)\n    texto = elemento_mensagem.text.strip()\n    assert texto == mensagem, f\"Mensagem esperada: '{mensagem}', mas foi exibida: '{texto}'\"",
+        "detail": "features.pages.favoritos_requer_login_page",
+        "documentation": {}
+    },
+    {
+        "label": "verificar_mensagem",
+        "kind": 2,
+        "importPath": "features.pages.favoritos_requer_login_page",
+        "description": "features.pages.favoritos_requer_login_page",
+        "peekOfCode": "def verificar_mensagem(mensagem):\n    elemento_mensagem = get_driver().find_element(By.XPATH, TEXTO_MODAL)\n    texto = elemento_mensagem.text.strip()\n    assert texto == mensagem, f\"Mensagem esperada: '{mensagem}', mas foi exibida: '{texto}'\"",
+        "detail": "features.pages.favoritos_requer_login_page",
+        "documentation": {}
+    },
+    {
+        "label": "ICONE_CORACAO",
+        "kind": 5,
+        "importPath": "features.pages.favoritos_requer_login_page",
+        "description": "features.pages.favoritos_requer_login_page",
+        "peekOfCode": "ICONE_CORACAO = \"button.wishlist-button-add\"\nTEXTO_MODAL = '//*[@id=\"footer\"]/div[2]/div/div[1]/div[7]/div[1]/div/div/div[2]/p'\ndef acessar_site():\n    get_driver().get(\"https://demo.prestashop.com/#/en/front\")\n    time.sleep(3)\ndef entrar_no_iframe():\n    driver = get_driver()\n    driver.switch_to.default_content()\n    iframe = WebDriverWait(driver, 15).until(\n        EC.presence_of_element_located((By.TAG_NAME, \"iframe\"))",
+        "detail": "features.pages.favoritos_requer_login_page",
+        "documentation": {}
+    },
+    {
+        "label": "TEXTO_MODAL",
+        "kind": 5,
+        "importPath": "features.pages.favoritos_requer_login_page",
+        "description": "features.pages.favoritos_requer_login_page",
+        "peekOfCode": "TEXTO_MODAL = '//*[@id=\"footer\"]/div[2]/div/div[1]/div[7]/div[1]/div/div/div[2]/p'\ndef acessar_site():\n    get_driver().get(\"https://demo.prestashop.com/#/en/front\")\n    time.sleep(3)\ndef entrar_no_iframe():\n    driver = get_driver()\n    driver.switch_to.default_content()\n    iframe = WebDriverWait(driver, 15).until(\n        EC.presence_of_element_located((By.TAG_NAME, \"iframe\"))\n    )",
+        "detail": "features.pages.favoritos_requer_login_page",
+        "documentation": {}
+    },
+    {
         "label": "acessar_site",
         "kind": 2,
         "importPath": "features.pages.filtro_categoria_page",
@@ -770,6 +1266,123 @@
         "documentation": {}
     },
     {
+        "label": "entrar_no_iframe",
+        "kind": 2,
+        "importPath": "features.pages.filtro_produto_por_dimensao_page",
+        "description": "features.pages.filtro_produto_por_dimensao_page",
+        "peekOfCode": "def entrar_no_iframe():\n    driver = get_driver()\n    driver.switch_to.default_content()\n    iframe = WebDriverWait(driver, 15).until(\n        EC.presence_of_element_located((By.TAG_NAME, \"iframe\"))\n    )\n    driver.switch_to.frame(iframe)\ndef acessar_site():\n    get_driver().get(\"https://demo.prestashop.com/#/en/front\")\n    time.sleep(3)",
+        "detail": "features.pages.filtro_produto_por_dimensao_page",
+        "documentation": {}
+    },
+    {
+        "label": "acessar_site",
+        "kind": 2,
+        "importPath": "features.pages.filtro_produto_por_dimensao_page",
+        "description": "features.pages.filtro_produto_por_dimensao_page",
+        "peekOfCode": "def acessar_site():\n    get_driver().get(\"https://demo.prestashop.com/#/en/front\")\n    time.sleep(3)\ndef clicar_botao_art():\n    entrar_no_iframe()\n    find_element(BOTAO_ART).click()\n    time.sleep(2)\ndef selecionar_dimensao_40_60():\n    entrar_no_iframe()\n    divpai = find_element(DIV_PRINCIPAL)",
+        "detail": "features.pages.filtro_produto_por_dimensao_page",
+        "documentation": {}
+    },
+    {
+        "label": "clicar_botao_art",
+        "kind": 2,
+        "importPath": "features.pages.filtro_produto_por_dimensao_page",
+        "description": "features.pages.filtro_produto_por_dimensao_page",
+        "peekOfCode": "def clicar_botao_art():\n    entrar_no_iframe()\n    find_element(BOTAO_ART).click()\n    time.sleep(2)\ndef selecionar_dimensao_40_60():\n    entrar_no_iframe()\n    divpai = find_element(DIV_PRINCIPAL)\n    sections = divpai.find_elements(By.TAG_NAME, \"section\")\n    quinta_section = sections[4] \n    ul = quinta_section.find_element(By.TAG_NAME, \"ul\")",
+        "detail": "features.pages.filtro_produto_por_dimensao_page",
+        "documentation": {}
+    },
+    {
+        "label": "selecionar_dimensao_40_60",
+        "kind": 2,
+        "importPath": "features.pages.filtro_produto_por_dimensao_page",
+        "description": "features.pages.filtro_produto_por_dimensao_page",
+        "peekOfCode": "def selecionar_dimensao_40_60():\n    entrar_no_iframe()\n    divpai = find_element(DIV_PRINCIPAL)\n    sections = divpai.find_elements(By.TAG_NAME, \"section\")\n    quinta_section = sections[4] \n    ul = quinta_section.find_element(By.TAG_NAME, \"ul\")\n    first_li = ul.find_elements(By.TAG_NAME, \"li\")[0]\n    first_a = first_li.find_element(By.TAG_NAME, \"a\")\n    first_a.click()\n    time.sleep(2)",
+        "detail": "features.pages.filtro_produto_por_dimensao_page",
+        "documentation": {}
+    },
+    {
+        "label": "verificar_quantidade_produtos",
+        "kind": 2,
+        "importPath": "features.pages.filtro_produto_por_dimensao_page",
+        "description": "features.pages.filtro_produto_por_dimensao_page",
+        "peekOfCode": "def verificar_quantidade_produtos():\n    divpaiprodutos = find_element(DIV_PRODUTOS)\n    divs = divpaiprodutos.find_elements(By.CSS_SELECTOR, \".js-product.product\")\n    quantidade_produtos = len(divs)\n    assert quantidade_produtos == 3, f\"Esperado 3 produtos, mas foram encontrados {quantidade_produtos}.\"",
+        "detail": "features.pages.filtro_produto_por_dimensao_page",
+        "documentation": {}
+    },
+    {
+        "label": "BOTAO_ART",
+        "kind": 5,
+        "importPath": "features.pages.filtro_produto_por_dimensao_page",
+        "description": "features.pages.filtro_produto_por_dimensao_page",
+        "peekOfCode": "BOTAO_ART = \"li#category-9.category a.dropdown-item\"\nDIV_PRINCIPAL = \"#search_filters\"\nDIV_PRODUTOS = \".products.row\"\ndef entrar_no_iframe():\n    driver = get_driver()\n    driver.switch_to.default_content()\n    iframe = WebDriverWait(driver, 15).until(\n        EC.presence_of_element_located((By.TAG_NAME, \"iframe\"))\n    )\n    driver.switch_to.frame(iframe)",
+        "detail": "features.pages.filtro_produto_por_dimensao_page",
+        "documentation": {}
+    },
+    {
+        "label": "DIV_PRINCIPAL",
+        "kind": 5,
+        "importPath": "features.pages.filtro_produto_por_dimensao_page",
+        "description": "features.pages.filtro_produto_por_dimensao_page",
+        "peekOfCode": "DIV_PRINCIPAL = \"#search_filters\"\nDIV_PRODUTOS = \".products.row\"\ndef entrar_no_iframe():\n    driver = get_driver()\n    driver.switch_to.default_content()\n    iframe = WebDriverWait(driver, 15).until(\n        EC.presence_of_element_located((By.TAG_NAME, \"iframe\"))\n    )\n    driver.switch_to.frame(iframe)\ndef acessar_site():",
+        "detail": "features.pages.filtro_produto_por_dimensao_page",
+        "documentation": {}
+    },
+    {
+        "label": "DIV_PRODUTOS",
+        "kind": 5,
+        "importPath": "features.pages.filtro_produto_por_dimensao_page",
+        "description": "features.pages.filtro_produto_por_dimensao_page",
+        "peekOfCode": "DIV_PRODUTOS = \".products.row\"\ndef entrar_no_iframe():\n    driver = get_driver()\n    driver.switch_to.default_content()\n    iframe = WebDriverWait(driver, 15).until(\n        EC.presence_of_element_located((By.TAG_NAME, \"iframe\"))\n    )\n    driver.switch_to.frame(iframe)\ndef acessar_site():\n    get_driver().get(\"https://demo.prestashop.com/#/en/front\")",
+        "detail": "features.pages.filtro_produto_por_dimensao_page",
+        "documentation": {}
+    },
+    {
+        "label": "clicar_hide",
+        "kind": 2,
+        "importPath": "features.pages.hide_page",
+        "description": "features.pages.hide_page",
+        "peekOfCode": "def clicar_hide():    \n    clicar_botao_hide()\ndef clicar_botao_hide():\n    find_element(BOTAO_HIDE).click()\n    time.sleep(5)\ndef elemento_visivel(localizador):\n    return WebDriverWait(get_driver(), 10).until(\n        EC.visibility_of_element_located(localizador)\n    )",
+        "detail": "features.pages.hide_page",
+        "documentation": {}
+    },
+    {
+        "label": "clicar_botao_hide",
+        "kind": 2,
+        "importPath": "features.pages.hide_page",
+        "description": "features.pages.hide_page",
+        "peekOfCode": "def clicar_botao_hide():\n    find_element(BOTAO_HIDE).click()\n    time.sleep(5)\ndef elemento_visivel(localizador):\n    return WebDriverWait(get_driver(), 10).until(\n        EC.visibility_of_element_located(localizador)\n    )",
+        "detail": "features.pages.hide_page",
+        "documentation": {}
+    },
+    {
+        "label": "elemento_visivel",
+        "kind": 2,
+        "importPath": "features.pages.hide_page",
+        "description": "features.pages.hide_page",
+        "peekOfCode": "def elemento_visivel(localizador):\n    return WebDriverWait(get_driver(), 10).until(\n        EC.visibility_of_element_located(localizador)\n    )",
+        "detail": "features.pages.hide_page",
+        "documentation": {}
+    },
+    {
+        "label": "BOTAO_HIDE",
+        "kind": 5,
+        "importPath": "features.pages.hide_page",
+        "description": "features.pages.hide_page",
+        "peekOfCode": "BOTAO_HIDE = \"a.btn.btn-collapse\"\nBOTAO_SHOW = (By.CLASS_NAME, \"show-header\")\ndef clicar_hide():    \n    clicar_botao_hide()\ndef clicar_botao_hide():\n    find_element(BOTAO_HIDE).click()\n    time.sleep(5)\ndef elemento_visivel(localizador):\n    return WebDriverWait(get_driver(), 10).until(\n        EC.visibility_of_element_located(localizador)",
+        "detail": "features.pages.hide_page",
+        "documentation": {}
+    },
+    {
+        "label": "BOTAO_SHOW",
+        "kind": 5,
+        "importPath": "features.pages.hide_page",
+        "description": "features.pages.hide_page",
+        "peekOfCode": "BOTAO_SHOW = (By.CLASS_NAME, \"show-header\")\ndef clicar_hide():    \n    clicar_botao_hide()\ndef clicar_botao_hide():\n    find_element(BOTAO_HIDE).click()\n    time.sleep(5)\ndef elemento_visivel(localizador):\n    return WebDriverWait(get_driver(), 10).until(\n        EC.visibility_of_element_located(localizador)\n    )",
+        "detail": "features.pages.hide_page",
+        "documentation": {}
+    },
+    {
         "label": "acessar_pagina_inicial",
         "kind": 2,
         "importPath": "features.pages.product_page",
@@ -801,7 +1414,7 @@
         "kind": 2,
         "importPath": "features.pages.product_page",
         "description": "features.pages.product_page",
-        "peekOfCode": "def clicar_foto_produto():\n    driver = get_driver()\n    entrar_no_iframe()\n    foto = WebDriverWait(driver, 10).until(\n        EC.element_to_be_clickable((By.CSS_SELECTOR, FOTO_PRODUTO))\n    )\n    foto.click()\n    time.sleep(5)  \ndef modal_esta_aberto():\n    driver = get_driver()",
+        "peekOfCode": "def clicar_foto_produto():\n    driver = get_driver()\n    entrar_no_iframe()\n    foto = find_element(FOTO_PRODUTO)\n    foto.click()\n    time.sleep(5)  \ndef modal_esta_aberto():\n    driver = get_driver()\n    entrar_no_iframe()\n    modal = WebDriverWait(driver, 10).until(",
         "detail": "features.pages.product_page",
         "documentation": {}
     },
@@ -857,6 +1470,150 @@
         "description": "features.pages.product_page",
         "peekOfCode": "FOTO_PRODUTO = \"div.layer[data-toggle='modal']\"  \ndef acessar_pagina_inicial():\n    driver = get_driver()\n    driver.get(URL_PRINCIPAL)\n    time.sleep(5) \ndef entrar_no_iframe():\n    driver = get_driver()\n    driver.switch_to.default_content()\n    iframe = WebDriverWait(driver, 15).until(\n        EC.presence_of_element_located((By.TAG_NAME, \"iframe\"))",
         "detail": "features.pages.product_page",
+        "documentation": {}
+    },
+    {
+        "label": "clicar_produto",
+        "kind": 2,
+        "importPath": "features.pages.realizar_compra_page",
+        "description": "features.pages.realizar_compra_page",
+        "peekOfCode": "def clicar_produto():\n    acessar_pagina_inicial()\n    entrar_no_iframe()\n    clicar_produto_desejado()\n    clicar_tamanho()\n    clicar_comprar()\n    confirmar_compra()\ndef acessar_pagina_inicial():\n    driver = get_driver()\n    driver.get(URL_PRINCIPAL)",
+        "detail": "features.pages.realizar_compra_page",
+        "documentation": {}
+    },
+    {
+        "label": "acessar_pagina_inicial",
+        "kind": 2,
+        "importPath": "features.pages.realizar_compra_page",
+        "description": "features.pages.realizar_compra_page",
+        "peekOfCode": "def acessar_pagina_inicial():\n    driver = get_driver()\n    driver.get(URL_PRINCIPAL)\n    time.sleep(5)\ndef entrar_no_iframe():\n    driver = get_driver()\n    driver.switch_to.default_content()\n    iframe = driver.find_element(By.TAG_NAME, \"iframe\")\n    driver.switch_to.frame(iframe)\ndef clicar_produto_desejado():",
+        "detail": "features.pages.realizar_compra_page",
+        "documentation": {}
+    },
+    {
+        "label": "entrar_no_iframe",
+        "kind": 2,
+        "importPath": "features.pages.realizar_compra_page",
+        "description": "features.pages.realizar_compra_page",
+        "peekOfCode": "def entrar_no_iframe():\n    driver = get_driver()\n    driver.switch_to.default_content()\n    iframe = driver.find_element(By.TAG_NAME, \"iframe\")\n    driver.switch_to.frame(iframe)\ndef clicar_produto_desejado():\n    driver = get_driver()\n    driver.get(URL_PRINCIPAL)\n    entrar_no_iframe()\n    produto_link = driver.find_element(By.XPATH, \"//h3[contains(@class, 'product-title')]/a[contains(text(), 'Hummingbird printed t-shirt')]\")",
+        "detail": "features.pages.realizar_compra_page",
+        "documentation": {}
+    },
+    {
+        "label": "clicar_produto_desejado",
+        "kind": 2,
+        "importPath": "features.pages.realizar_compra_page",
+        "description": "features.pages.realizar_compra_page",
+        "peekOfCode": "def clicar_produto_desejado():\n    driver = get_driver()\n    driver.get(URL_PRINCIPAL)\n    entrar_no_iframe()\n    produto_link = driver.find_element(By.XPATH, \"//h3[contains(@class, 'product-title')]/a[contains(text(), 'Hummingbird printed t-shirt')]\")\n    produto_link.click()\n    time.sleep(5)\ndef clicar_tamanho():\n    driver = get_driver()\n    driver.get(URL_PRINCIPAL)",
+        "detail": "features.pages.realizar_compra_page",
+        "documentation": {}
+    },
+    {
+        "label": "clicar_tamanho",
+        "kind": 2,
+        "importPath": "features.pages.realizar_compra_page",
+        "description": "features.pages.realizar_compra_page",
+        "peekOfCode": "def clicar_tamanho():\n    driver = get_driver()\n    driver.get(URL_PRINCIPAL)\n    entrar_no_iframe()\n    dropdown_element = driver.find_element(By.ID, \"group_1\")        \n    select = Select(dropdown_element)\n    select.select_by_value(\"3\")\n    time.sleep(5)\ndef clicar_comprar():\n    driver = get_driver()",
+        "detail": "features.pages.realizar_compra_page",
+        "documentation": {}
+    },
+    {
+        "label": "clicar_comprar",
+        "kind": 2,
+        "importPath": "features.pages.realizar_compra_page",
+        "description": "features.pages.realizar_compra_page",
+        "peekOfCode": "def clicar_comprar():\n    driver = get_driver()\n    driver.get(URL_PRINCIPAL)\n    entrar_no_iframe()\n    produto_link = driver.find_element(By.XPATH, \"//div[contains(@class, 'add')]/button[contains(@class, 'add-to-cart')]\")\n    produto_link.click()\n    time.sleep(5)\ndef confirmar_compra():\n    driver = get_driver()\n    driver.get(URL_PRINCIPAL)",
+        "detail": "features.pages.realizar_compra_page",
+        "documentation": {}
+    },
+    {
+        "label": "confirmar_compra",
+        "kind": 2,
+        "importPath": "features.pages.realizar_compra_page",
+        "description": "features.pages.realizar_compra_page",
+        "peekOfCode": "def confirmar_compra():\n    driver = get_driver()\n    driver.get(URL_PRINCIPAL)\n    entrar_no_iframe()\n    produto_link = driver.find_element(By.CSS_SELECTOR, '.modal-content a.btn.btn-primary[href*=\"action=show\"]')\n    produto_link.click()    \n    time.sleep(5)\ndef verificar_produto_no_carrinho():\n    driver = get_driver()\n    wait = WebDriverWait(driver, 10)",
+        "detail": "features.pages.realizar_compra_page",
+        "documentation": {}
+    },
+    {
+        "label": "verificar_produto_no_carrinho",
+        "kind": 2,
+        "importPath": "features.pages.realizar_compra_page",
+        "description": "features.pages.realizar_compra_page",
+        "peekOfCode": "def verificar_produto_no_carrinho():\n    driver = get_driver()\n    wait = WebDriverWait(driver, 10)\n    try:\n        xpath = \"//a[@class='label' and contains(text(), 'Hummingbird printed t-shirt')]\"\n        elemento = wait.until(EC.presence_of_element_located((By.XPATH, xpath)))\n        return elemento.is_displayed()\n    except TimeoutException:\n        return False",
+        "detail": "features.pages.realizar_compra_page",
+        "documentation": {}
+    },
+    {
+        "label": "URL_PRINCIPAL",
+        "kind": 5,
+        "importPath": "features.pages.realizar_compra_page",
+        "description": "features.pages.realizar_compra_page",
+        "peekOfCode": "URL_PRINCIPAL = \"https://demo.prestashop.com/#/en/front\"\nPRIMEIRO_PRODUTO = \"article.product-miniature.js-product-miniature\"\nLINK_PRODUTO = \"h3.product-title a\"\ndef clicar_produto():\n    acessar_pagina_inicial()\n    entrar_no_iframe()\n    clicar_produto_desejado()\n    clicar_tamanho()\n    clicar_comprar()\n    confirmar_compra()",
+        "detail": "features.pages.realizar_compra_page",
+        "documentation": {}
+    },
+    {
+        "label": "PRIMEIRO_PRODUTO",
+        "kind": 5,
+        "importPath": "features.pages.realizar_compra_page",
+        "description": "features.pages.realizar_compra_page",
+        "peekOfCode": "PRIMEIRO_PRODUTO = \"article.product-miniature.js-product-miniature\"\nLINK_PRODUTO = \"h3.product-title a\"\ndef clicar_produto():\n    acessar_pagina_inicial()\n    entrar_no_iframe()\n    clicar_produto_desejado()\n    clicar_tamanho()\n    clicar_comprar()\n    confirmar_compra()\ndef acessar_pagina_inicial():",
+        "detail": "features.pages.realizar_compra_page",
+        "documentation": {}
+    },
+    {
+        "label": "LINK_PRODUTO",
+        "kind": 5,
+        "importPath": "features.pages.realizar_compra_page",
+        "description": "features.pages.realizar_compra_page",
+        "peekOfCode": "LINK_PRODUTO = \"h3.product-title a\"\ndef clicar_produto():\n    acessar_pagina_inicial()\n    entrar_no_iframe()\n    clicar_produto_desejado()\n    clicar_tamanho()\n    clicar_comprar()\n    confirmar_compra()\ndef acessar_pagina_inicial():\n    driver = get_driver()",
+        "detail": "features.pages.realizar_compra_page",
+        "documentation": {}
+    },
+    {
+        "label": "acessar_site",
+        "kind": 2,
+        "importPath": "features.pages.responsividade_layout_page",
+        "description": "features.pages.responsividade_layout_page",
+        "peekOfCode": "def acessar_site():\n    get_driver().get(\"https://demo.prestashop.com/#/en/front\")\n    time.sleep(3)\ndef clicar_botao_tablet():\n    elemento = find_element(BOTAO_TABLET)\n    elemento.click()\ndef verificar_dimensao():\n    driver = get_driver()\n    iframe = WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.TAG_NAME, \"iframe\")))\n    driver.switch_to.frame(iframe)",
+        "detail": "features.pages.responsividade_layout_page",
+        "documentation": {}
+    },
+    {
+        "label": "clicar_botao_tablet",
+        "kind": 2,
+        "importPath": "features.pages.responsividade_layout_page",
+        "description": "features.pages.responsividade_layout_page",
+        "peekOfCode": "def clicar_botao_tablet():\n    elemento = find_element(BOTAO_TABLET)\n    elemento.click()\ndef verificar_dimensao():\n    driver = get_driver()\n    iframe = WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.TAG_NAME, \"iframe\")))\n    driver.switch_to.frame(iframe)\n    elemento = get_driver().find_element(By.XPATH, HTML_PRINCIPAL)\n    dimensao = elemento.size\n    assert dimensao['width'] >= 1000",
+        "detail": "features.pages.responsividade_layout_page",
+        "documentation": {}
+    },
+    {
+        "label": "verificar_dimensao",
+        "kind": 2,
+        "importPath": "features.pages.responsividade_layout_page",
+        "description": "features.pages.responsividade_layout_page",
+        "peekOfCode": "def verificar_dimensao():\n    driver = get_driver()\n    iframe = WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.TAG_NAME, \"iframe\")))\n    driver.switch_to.frame(iframe)\n    elemento = get_driver().find_element(By.XPATH, HTML_PRINCIPAL)\n    dimensao = elemento.size\n    assert dimensao['width'] >= 1000\n    assert dimensao['height'] >= 760",
+        "detail": "features.pages.responsividade_layout_page",
+        "documentation": {}
+    },
+    {
+        "label": "BOTAO_TABLET",
+        "kind": 5,
+        "importPath": "features.pages.responsividade_layout_page",
+        "description": "features.pages.responsividade_layout_page",
+        "peekOfCode": "BOTAO_TABLET = \"a.change-device.tablet-h\"\nHTML_PRINCIPAL = '/html'\ndef acessar_site():\n    get_driver().get(\"https://demo.prestashop.com/#/en/front\")\n    time.sleep(3)\ndef clicar_botao_tablet():\n    elemento = find_element(BOTAO_TABLET)\n    elemento.click()\ndef verificar_dimensao():\n    driver = get_driver()",
+        "detail": "features.pages.responsividade_layout_page",
+        "documentation": {}
+    },
+    {
+        "label": "HTML_PRINCIPAL",
+        "kind": 5,
+        "importPath": "features.pages.responsividade_layout_page",
+        "description": "features.pages.responsividade_layout_page",
+        "peekOfCode": "HTML_PRINCIPAL = '/html'\ndef acessar_site():\n    get_driver().get(\"https://demo.prestashop.com/#/en/front\")\n    time.sleep(3)\ndef clicar_botao_tablet():\n    elemento = find_element(BOTAO_TABLET)\n    elemento.click()\ndef verificar_dimensao():\n    driver = get_driver()\n    iframe = WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.TAG_NAME, \"iframe\")))",
+        "detail": "features.pages.responsividade_layout_page",
         "documentation": {}
     },
     {
@@ -1049,6 +1806,60 @@
         "documentation": {}
     },
     {
+        "label": "clicar_botao_banner",
+        "kind": 2,
+        "importPath": "features.steps.clique_show_steps",
+        "description": "features.steps.clique_show_steps",
+        "peekOfCode": "def clicar_botao_banner(context):\n    botao_hide()\n@when(u'úsuario clicar no botão show')\ndef clicar_botao_banner(context):\n    botao_show()  \n@then(\"o botao hide deve aparecer\")\ndef step_impl(context):\n    from features.pages.clique_show_page import elemento_visivel, NOME_HIDE\n    assert elemento_visivel(NOME_HIDE), \"Botão HIDE não está visível como esperado\"",
+        "detail": "features.steps.clique_show_steps",
+        "documentation": {}
+    },
+    {
+        "label": "clicar_botao_banner",
+        "kind": 2,
+        "importPath": "features.steps.clique_show_steps",
+        "description": "features.steps.clique_show_steps",
+        "peekOfCode": "def clicar_botao_banner(context):\n    botao_show()  \n@then(\"o botao hide deve aparecer\")\ndef step_impl(context):\n    from features.pages.clique_show_page import elemento_visivel, NOME_HIDE\n    assert elemento_visivel(NOME_HIDE), \"Botão HIDE não está visível como esperado\"",
+        "detail": "features.steps.clique_show_steps",
+        "documentation": {}
+    },
+    {
+        "label": "step_impl",
+        "kind": 2,
+        "importPath": "features.steps.clique_show_steps",
+        "description": "features.steps.clique_show_steps",
+        "peekOfCode": "def step_impl(context):\n    from features.pages.clique_show_page import elemento_visivel, NOME_HIDE\n    assert elemento_visivel(NOME_HIDE), \"Botão HIDE não está visível como esperado\"",
+        "detail": "features.steps.clique_show_steps",
+        "documentation": {}
+    },
+    {
+        "label": "acessar_site",
+        "kind": 2,
+        "importPath": "features.steps.favoritos_requer_login_steps",
+        "description": "features.steps.favoritos_requer_login_steps",
+        "peekOfCode": "def acessar_site(context):\n    favorito.acessar_site()\n@when(u'clica no ícone de coração de um produto')\ndef clicar_icone_coração_no_produto(conext):\n    favorito.clicar_botao_coracao()\n@then(u'deve ser exibida uma mensagem solicitando login \"{mensagem}\"')\ndef verificar_mensagem_modal(context, mensagem):\n    favorito.verificar_mensagem(mensagem)",
+        "detail": "features.steps.favoritos_requer_login_steps",
+        "documentation": {}
+    },
+    {
+        "label": "clicar_icone_coração_no_produto",
+        "kind": 2,
+        "importPath": "features.steps.favoritos_requer_login_steps",
+        "description": "features.steps.favoritos_requer_login_steps",
+        "peekOfCode": "def clicar_icone_coração_no_produto(conext):\n    favorito.clicar_botao_coracao()\n@then(u'deve ser exibida uma mensagem solicitando login \"{mensagem}\"')\ndef verificar_mensagem_modal(context, mensagem):\n    favorito.verificar_mensagem(mensagem)",
+        "detail": "features.steps.favoritos_requer_login_steps",
+        "documentation": {}
+    },
+    {
+        "label": "verificar_mensagem_modal",
+        "kind": 2,
+        "importPath": "features.steps.favoritos_requer_login_steps",
+        "description": "features.steps.favoritos_requer_login_steps",
+        "peekOfCode": "def verificar_mensagem_modal(context, mensagem):\n    favorito.verificar_mensagem(mensagem)",
+        "detail": "features.steps.favoritos_requer_login_steps",
+        "documentation": {}
+    },
+    {
         "label": "step_acessar_site",
         "kind": 2,
         "importPath": "features.steps.filtro_categoria_steps",
@@ -1085,6 +1896,69 @@
         "documentation": {}
     },
     {
+        "label": "acessar_site",
+        "kind": 2,
+        "importPath": "features.steps.filtro_produto_por_dimensao_steps",
+        "description": "features.steps.filtro_produto_por_dimensao_steps",
+        "peekOfCode": "def acessar_site(context):\n    filtro.acessar_site()\n@when(u'clica em ART na navbar')\ndef clicar_em_ART_Navbar(context):\n    filtro.clicar_botao_art()\n@when(u'seleciona a dimensão 40x60')\ndef selecionar_dimensao(context):\n    filtro.selecionar_dimensao_40_60()\n@then(u'devem ser exibidos 3 produtos com essa dimensão')\ndef step_impl(context):",
+        "detail": "features.steps.filtro_produto_por_dimensao_steps",
+        "documentation": {}
+    },
+    {
+        "label": "clicar_em_ART_Navbar",
+        "kind": 2,
+        "importPath": "features.steps.filtro_produto_por_dimensao_steps",
+        "description": "features.steps.filtro_produto_por_dimensao_steps",
+        "peekOfCode": "def clicar_em_ART_Navbar(context):\n    filtro.clicar_botao_art()\n@when(u'seleciona a dimensão 40x60')\ndef selecionar_dimensao(context):\n    filtro.selecionar_dimensao_40_60()\n@then(u'devem ser exibidos 3 produtos com essa dimensão')\ndef step_impl(context):\n    filtro.verificar_quantidade_produtos()",
+        "detail": "features.steps.filtro_produto_por_dimensao_steps",
+        "documentation": {}
+    },
+    {
+        "label": "selecionar_dimensao",
+        "kind": 2,
+        "importPath": "features.steps.filtro_produto_por_dimensao_steps",
+        "description": "features.steps.filtro_produto_por_dimensao_steps",
+        "peekOfCode": "def selecionar_dimensao(context):\n    filtro.selecionar_dimensao_40_60()\n@then(u'devem ser exibidos 3 produtos com essa dimensão')\ndef step_impl(context):\n    filtro.verificar_quantidade_produtos()",
+        "detail": "features.steps.filtro_produto_por_dimensao_steps",
+        "documentation": {}
+    },
+    {
+        "label": "step_impl",
+        "kind": 2,
+        "importPath": "features.steps.filtro_produto_por_dimensao_steps",
+        "description": "features.steps.filtro_produto_por_dimensao_steps",
+        "peekOfCode": "def step_impl(context):\n    filtro.verificar_quantidade_produtos()",
+        "detail": "features.steps.filtro_produto_por_dimensao_steps",
+        "documentation": {}
+    },
+    {
+        "label": "acessar_site_treinamento",
+        "kind": 2,
+        "importPath": "features.steps.hide_steps",
+        "description": "features.steps.hide_steps",
+        "peekOfCode": "def acessar_site_treinamento(context):\n    get_driver().get(\"https://demo.prestashop.com/#/en/front\")\n    time.sleep(15)\n@when(u'o úsuario clicar no botão hide')\ndef preencher_campos_obrigatorios(context):\n    clicar_hide()\n@then(\"o botao show deve aparecer\")\ndef step_impl(context):\n    from features.pages.hide_page import elemento_visivel, BOTAO_SHOW\n    assert elemento_visivel(BOTAO_SHOW), \"Botão Show não está visível como esperado\"",
+        "detail": "features.steps.hide_steps",
+        "documentation": {}
+    },
+    {
+        "label": "preencher_campos_obrigatorios",
+        "kind": 2,
+        "importPath": "features.steps.hide_steps",
+        "description": "features.steps.hide_steps",
+        "peekOfCode": "def preencher_campos_obrigatorios(context):\n    clicar_hide()\n@then(\"o botao show deve aparecer\")\ndef step_impl(context):\n    from features.pages.hide_page import elemento_visivel, BOTAO_SHOW\n    assert elemento_visivel(BOTAO_SHOW), \"Botão Show não está visível como esperado\"",
+        "detail": "features.steps.hide_steps",
+        "documentation": {}
+    },
+    {
+        "label": "step_impl",
+        "kind": 2,
+        "importPath": "features.steps.hide_steps",
+        "description": "features.steps.hide_steps",
+        "peekOfCode": "def step_impl(context):\n    from features.pages.hide_page import elemento_visivel, BOTAO_SHOW\n    assert elemento_visivel(BOTAO_SHOW), \"Botão Show não está visível como esperado\"",
+        "detail": "features.steps.hide_steps",
+        "documentation": {}
+    },
+    {
         "label": "step_abrir_pagina_inicial",
         "kind": 2,
         "importPath": "features.steps.product_steps",
@@ -1118,6 +1992,51 @@
         "description": "features.steps.product_steps",
         "peekOfCode": "def step_validar_imagem_ampliada(context):\n    assert product.imagem_ampliada_exibida(), \"Imagem ampliada não exibida\"",
         "detail": "features.steps.product_steps",
+        "documentation": {}
+    },
+    {
+        "label": "preencher_campos_obrigatorios",
+        "kind": 2,
+        "importPath": "features.steps.realizer_compra_steps",
+        "description": "features.steps.realizer_compra_steps",
+        "peekOfCode": "def preencher_campos_obrigatorios(context):\n    clicar_produto()\n@then(u'o produto deve aparecer no carrinho')\ndef verificar_produto_no_carrinho_step(context):\n    assert verificar_produto_no_carrinho()",
+        "detail": "features.steps.realizer_compra_steps",
+        "documentation": {}
+    },
+    {
+        "label": "verificar_produto_no_carrinho_step",
+        "kind": 2,
+        "importPath": "features.steps.realizer_compra_steps",
+        "description": "features.steps.realizer_compra_steps",
+        "peekOfCode": "def verificar_produto_no_carrinho_step(context):\n    assert verificar_produto_no_carrinho()",
+        "detail": "features.steps.realizer_compra_steps",
+        "documentation": {}
+    },
+    {
+        "label": "acessar_site",
+        "kind": 2,
+        "importPath": "features.steps.responsividade_layout_steps",
+        "description": "features.steps.responsividade_layout_steps",
+        "peekOfCode": "def acessar_site(context):\n    responsi.acessar_site()\n@when(u'o usuário redimensiona a janela do navegador')\ndef redimensiona_para_tablet(context):\n    responsi.clicar_botao_tablet()\n    time.sleep(2)\n@then(u'o conteúdo deve ajustar corretamente sua largura e altura')\ndef verificar_as_dimencoes(context):\n    responsi.verificar_dimensao()",
+        "detail": "features.steps.responsividade_layout_steps",
+        "documentation": {}
+    },
+    {
+        "label": "redimensiona_para_tablet",
+        "kind": 2,
+        "importPath": "features.steps.responsividade_layout_steps",
+        "description": "features.steps.responsividade_layout_steps",
+        "peekOfCode": "def redimensiona_para_tablet(context):\n    responsi.clicar_botao_tablet()\n    time.sleep(2)\n@then(u'o conteúdo deve ajustar corretamente sua largura e altura')\ndef verificar_as_dimencoes(context):\n    responsi.verificar_dimensao()",
+        "detail": "features.steps.responsividade_layout_steps",
+        "documentation": {}
+    },
+    {
+        "label": "verificar_as_dimencoes",
+        "kind": 2,
+        "importPath": "features.steps.responsividade_layout_steps",
+        "description": "features.steps.responsividade_layout_steps",
+        "peekOfCode": "def verificar_as_dimencoes(context):\n    responsi.verificar_dimensao()",
+        "detail": "features.steps.responsividade_layout_steps",
         "documentation": {}
     },
     {
